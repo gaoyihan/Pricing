@@ -1,0 +1,1731 @@
+21:56:42 Readinglog_group_10_002_full.txt
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1TPJ3U8T40J9N
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A177R11G8ZQR8V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3UUGGLWKHBFQ7
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1TPJ3U8T40J9N
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2TQO1OQHNZ994
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2PZAEWP4GZJY2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A34F5XFNW20KTE
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A177R11G8ZQR8V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A3F4H8F01FICMD
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3RS9LER8GPP39
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A1HB6QE6OUN1O8
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1TPJ3U8T40J9N
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2PE8XM8S7RM5X
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A36TFAAZ38WCD2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A36TFAAZ38WCD2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2OLM3IAEDU460
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2EQSIRXXPIAYR
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2NE1JAM8IO5ZM
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1TPJ3U8T40J9N
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A37XQMARXIVJ9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2TQO1OQHNZ994
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2PE8XM8S7RM5X
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A177R11G8ZQR8V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1TPJ3U8T40J9N
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2TQO1OQHNZ994
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1L1UULGFQZ09M
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A3RS9LER8GPP39
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1TPJ3U8T40J9N
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A1HB6QE6OUN1O8
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A291KO368YRYCR
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2TQO1OQHNZ994
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1TPJ3U8T40J9N
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1TPJ3U8T40J9N
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1M1RQNEUI0RZA
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A3F4H8F01FICMD
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2OLM3IAEDU460
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A37XQMARXIVJ9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A177R11G8ZQR8V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1M1RQNEUI0RZA
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3RS9LER8GPP39
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1TPJ3U8T40J9N
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3UUGGLWKHBFQ7
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A36TFAAZ38WCD2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2OLM3IAEDU460
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2TQO1OQHNZ994
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2SD89JXU7T1M7
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2KK97DO8CBSXN
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2EQSIRXXPIAYR
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2OLM3IAEDU460
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3UUGGLWKHBFQ7
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2TQO1OQHNZ994
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A34F5XFNW20KTE
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2SD89JXU7T1M7
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2EQSIRXXPIAYR
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A36TFAAZ38WCD2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2TQO1OQHNZ994
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1TPJ3U8T40J9N
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1M1RQNEUI0RZA
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1TPJ3U8T40J9N
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A36TFAAZ38WCD2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2PZAEWP4GZJY2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2OLM3IAEDU460
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1LZXNOD36P7C4
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A177R11G8ZQR8V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2OEQ1G1G4XWMH
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2PE8XM8S7RM5X
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2PE8XM8S7RM5X
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1TPJ3U8T40J9N
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2UBTRRL158DZ8
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A36TFAAZ38WCD2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1TPJ3U8T40J9N
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2EQSIRXXPIAYR
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2TQO1OQHNZ994
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2OLM3IAEDU460
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2OEQ1G1G4XWMH
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1LZXNOD36P7C4
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1TPJ3U8T40J9N
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A3RS9LER8GPP39
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A177R11G8ZQR8V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A36TFAAZ38WCD2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2OEQ1G1G4XWMH
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A3RS9LER8GPP39
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1TPJ3U8T40J9N
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1M1RQNEUI0RZA
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2PZAEWP4GZJY2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A3RS9LER8GPP39
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A34F5XFNW20KTE
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1TPJ3U8T40J9N
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2TQO1OQHNZ994
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2SD89JXU7T1M7
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A3F4H8F01FICMD
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2PZAEWP4GZJY2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A34F5XFNW20KTE
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1TPJ3U8T40J9N
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2TQO1OQHNZ994
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A1HB6QE6OUN1O8
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2OLM3IAEDU460
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A177R11G8ZQR8V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16SPP73GZBX1M
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A3F4H8F01FICMD
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A1M1RQNEUI0RZA
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A177R11G8ZQR8V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2PE8XM8S7RM5X
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2PE8XM8S7RM5X
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3M8UN1SFIHEU3
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A16D2GVNFHEB9V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2OLM3IAEDU460
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A177R11G8ZQR8V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2TQO1OQHNZ994
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A30E6OL94WS6VV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2177AC2UEBK1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A36TFAAZ38WCD2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2TQO1OQHNZ994
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2TQO1OQHNZ994
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3H4G9JLN2Y89Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A2HX5OGZKIIXV6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F29%2F2014&workerId=A3NUWT4BWRJ655
+21:56:42 Readinglog_group_20_002_full.txt
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2T6QL7HBMYC58
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2FUMA4UR6S920
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2A53C2WMV8L9R
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2A53C2WMV8L9R
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2K2NVICZIVE2F
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A27J7GURJRZ28J
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A11VRRF0XAUIRJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A1ZZ0H4IM94QTB
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2DYAT2VQXDJQI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A35M2SKP5AJGFI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A1YR6RPNGVTVEG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2K2NVICZIVE2F
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A33FEFJ5LURANX
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2K2NVICZIVE2F
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A1EWKWPQC6N1Z6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A11VRRF0XAUIRJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A38R34PVFPZP1K
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2KYVPDREQK2L6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A3MHBPP7UHZVKN
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A1AYWYUCAG0X3S
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A26Q0XPFMNH410
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A364X2FL3FZMFC
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A1F05XRNRMNUCK
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2K2NVICZIVE2F
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2K2NVICZIVE2F
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2Z9PSNG136S1C
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2P8F8AY3D0RK9
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2T6QL7HBMYC58
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A3MHBPP7UHZVKN
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2T6QL7HBMYC58
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A1YR6RPNGVTVEG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2QPB42Q1XO8GZ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A3D46EJHRF04HS
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2K2NVICZIVE2F
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2PWBLYG1M5T56
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2K2NVICZIVE2F
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A1ZZ0H4IM94QTB
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A177R11G8ZQR8V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A177R11G8ZQR8V
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A1PB6Y7A2O4E1U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A10GHU62ZGTGY6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2K2NVICZIVE2F
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A364X2FL3FZMFC
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2T6QL7HBMYC58
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2VZ11Z9M0NP55
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F27%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2T6QL7HBMYC58
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A364X2FL3FZMFC
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A364X2FL3FZMFC
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F28%2F2014&workerId=A165Z07V81GMN2
+21:56:42 Readinglog_group_30_002.txt
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A1O757J86FBSZW
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A2QEU0XMK948T0
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A37Q1701BQI3TI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A34QYRAB5TG0K1
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A37Q1701BQI3TI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A3JC3AR9RO7KZZ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A3PQNO8KEL48A3
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A38R34PVFPZP1K
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A37Q1701BQI3TI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A2GZDIIKSTJ6OD
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A1P1Z6ABAJ5DQW
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A1QFGTQ7Q23GAT
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A1T1FKE0KK3583
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A324J3PKWTCJS3
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A3VSJ819CRVWBV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A22GT8O7OVPEGC
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3PQNO8KEL48A3
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A2R0FIQBAQCB2W
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3PQNO8KEL48A3
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A37W3K5DH78REU
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A1O757J86FBSZW
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A37FQI6S9XARBT
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3PQNO8KEL48A3
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A3BCZF37S1P3XY
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A1MSH9OKBZ9KC7
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A379U322YXBRUJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3PQNO8KEL48A3
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A3BCZF37S1P3XY
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3BEGZR3FC5XQA
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A22BAUES1TIZS6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3BEGZR3FC5XQA
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A2B35FPAHZ8ITZ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A2GZDIIKSTJ6OD
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A1MSH9OKBZ9KC7
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A379U322YXBRUJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A378EEC9U5ZLPA
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A1QFGTQ7Q23GAT
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A2NG4TPWTMR7Y2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A12KWFVRB1C67A
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A1T645U7HFCYR3
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A37Q1701BQI3TI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A1QFGTQ7Q23GAT
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A37Q1701BQI3TI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A22GT8O7OVPEGC
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A27J7GURJRZ28J
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A37Q1701BQI3TI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A3NEA5OFBQGQ5J
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A37Q1701BQI3TI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A34QYRAB5TG0K1
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F22%2F2014&workerId=A3NEA5OFBQGQ5J
+21:56:42 Readinglog_group_40_002.txt
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A19I42RZVOE6R5
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2RRU9WGFBPA3J
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A2IWA2BAMTD7ZW
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3TDUHEBFJ53NM
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3TDUHEBFJ53NM
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A1TMNQFE3GNJ4I
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A1F0YORPKKZTX3
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A2IWA2BAMTD7ZW
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3RZG1RLI354T0
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A1TMNQFE3GNJ4I
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A37Q1701BQI3TI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3TDUHEBFJ53NM
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2RB4WF5CDMEL9
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A1LX3YP9PCKI72
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A2IWA2BAMTD7ZW
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A1TMNQFE3GNJ4I
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A14Y2TU47K9F0P
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3KMA9EZUQO75S
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A25KAC1KSWKXVD
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A37Q1701BQI3TI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A1TMNQFE3GNJ4I
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A37Q1701BQI3TI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A14VYU4RTNHD1D
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A1TMNQFE3GNJ4I
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A1TMNQFE3GNJ4I
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3TDUHEBFJ53NM
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A1675D95NJ1YDD
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A1TMNQFE3GNJ4I
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A1F0YORPKKZTX3
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3NVFTISWO0M4Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3TDUHEBFJ53NM
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3JXXO7MKU8SNM
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3NVFTISWO0M4Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A27J7GURJRZ28J
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A2EW8H9R0T06M4
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A2AIEH13RE4WDX
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A2S4AEW1XL9QEB
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A37T20YHVG4WV4
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3RB849M3Q6RPL
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A20PFY07U885LV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A38DAV8NCBY1J6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A14Y2TU47K9F0P
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A37Q1701BQI3TI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3TDUHEBFJ53NM
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A2IWA2BAMTD7ZW
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A229DYWP4N89VV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A2WCPD03DWWX6E
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3KG85LTX4J6N0
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3TDUHEBFJ53NM
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A37Q1701BQI3TI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A1AG7F4Z1EOO5L
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2TMPNHJ7QULKK
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3TDUHEBFJ53NM
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3TDUHEBFJ53NM
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A14Y2TU47K9F0P
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A37Q1701BQI3TI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A37Q1701BQI3TI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A1RTEXQQVMOJ8O
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2S1IQDF29I5M2
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A1P1Z6ABAJ5DQW
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A3LXY3QH5CO60U
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A37Q1701BQI3TI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A2IWA2BAMTD7ZW
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A1TMNQFE3GNJ4I
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A37Q1701BQI3TI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A1TMNQFE3GNJ4I
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2E98WNOGW8ZIG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F21%2F2014&workerId=A2IWA2BAMTD7ZW
+21:56:42 Readinglog_group_50_002.txt
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A1F0YORPKKZTX3
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F19%2F2014&workerId=A3I1LFO1NEWXSM
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A24PS0YTNVTMGQ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3LMI7ZDFO8JHR
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A1LX3YP9PCKI72
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A37Q1701BQI3TI
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F19%2F2014&workerId=A2BLWUEXAHXJGW
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2IA7HV46J435L
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3RAHOO6YRN50B
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A27YJ0L7WMD5G4
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A122HMIE7LM4VU
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3LMI7ZDFO8JHR
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3RAHOO6YRN50B
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3LMI7ZDFO8JHR
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2TPCM9J1ZDQM6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A1VWA8PZEGTZ9I
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A1ZD0K88FCVBR7
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3N046BQO97J2E
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A1JCP6KKZQFN6I
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2PF8C5MELO0BV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3LMI7ZDFO8JHR
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2Y3UA3O2X2WHL
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2Q6SL6ZJFOXGP
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3F7NONJ6GB64T
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2D9G3N19G4KP3
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3RAHOO6YRN50B
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3SZO64Y8QCPPU
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3RAHOO6YRN50B
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F19%2F2014&workerId=A3MCS8WQWZ34RN
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F19%2F2014&workerId=A2CVYRV94ONQMR
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A1QY8M3E2W1XZ7
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3LMI7ZDFO8JHR
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2MFRGKYQYXMSD
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F19%2F2014&workerId=A2P6VK1US8OTC5
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A1DVR1W707S5R8
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F19%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A163MRYD9B6X8O
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A1F0YORPKKZTX3
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3RAHOO6YRN50B
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2Y3UA3O2X2WHL
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2ITSOW5M5HI6K
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F19%2F2014&workerId=A35OGKV242IJ78
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2C891HZIV594T
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3MJ4LDQ5XET9I
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3LMI7ZDFO8JHR
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F19%2F2014&workerId=A2H1SPCAOA2WLA
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2HR7ZIX42FEPG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A21UK59PMHT4EK
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A1776JL7TXYC2D
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3LMI7ZDFO8JHR
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A26IXZVJU5RPA9
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2Y3UA3O2X2WHL
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3RAHOO6YRN50B
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A1B46B7TU5VK1G
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A28O8FQSUWMXJV
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3EW9I16GHDOZ1
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F19%2F2014&workerId=A22M1T36IS5MFD
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F19%2F2014&workerId=A1UC6FT0GA43SG
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2DARHWV3SRXJ6
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2Y3UA3O2X2WHL
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F19%2F2014&workerId=A3OEMYJVPCF71Q
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2QGXZ4QS3HUS9
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3RAHOO6YRN50B
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3RAHOO6YRN50B
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2YH1R382XC29J
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2Y3UA3O2X2WHL
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3TUV62CZT2AVJ
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3RAHOO6YRN50B
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3RAHOO6YRN50B
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A3LMI7ZDFO8JHR
+21:56:42 Getting URL Content:
+https://requester.mturk.com/mturk/workerpaymenttransactions?date=5%2F20%2F2014&workerId=A2JFH6UKUUXSHH

@@ -1,0 +1,961 @@
+23:01:40 Expired 0 HITs
+23:02:08 Disposed 0 HITs
+23:02:08 Cleared all HITs
+23:02:31 Approve Assignment for HIT344M16OZKIQDS2ER6ZR8EGKP29PENI
+23:02:31 Acceptance Time: 1402502317000
+23:02:31 Worker Id: A1ZNDYP1YSDWJJ
+23:02:31 Submit Time: 1402502634000
+23:02:32 Approve Assignment for HIT39RRBHZ0AUCOB2EW4DRC97FKCI0ZVQ
+23:02:32 Acceptance Time: 1402500318000
+23:02:32 Worker Id: A3GAGTT9AHNB8
+23:02:32 Submit Time: 1402500464000
+23:02:32 Approve Assignment for HIT3TX9T2ZCB9C1QRE1UNW8V9YYJR2ZW0
+23:02:32 Acceptance Time: 1402499903000
+23:02:32 Worker Id: A3GAGTT9AHNB8
+23:02:32 Submit Time: 1402500044000
+23:02:33 Approve Assignment for HIT3ZFRE2BDQ9PGFRJR4SSUXSC5ST8ZXT
+23:02:33 Acceptance Time: 1402500604000
+23:02:33 Worker Id: A3GAGTT9AHNB8
+23:02:33 Submit Time: 1402500764000
+23:02:33 Approve Assignment for HIT3ZICQFRS31T5KMJ65AGFUDSG0T6ZZQ
+23:02:33 Acceptance Time: 1402500092000
+23:02:33 Worker Id: A1OQC2A8UJ73JR
+23:02:33 Submit Time: 1402500267000
+23:02:34 Approve Assignment for HIT3OB6JN3A9Q0WJOYWG4W808U8C85MR3
+23:02:34 Acceptance Time: 1402501679000
+23:02:34 Worker Id: A3GAGTT9AHNB8
+23:02:34 Submit Time: 1402501792000
+23:02:34 Approve Assignment for HIT3WRKFXQBOBIJK6KR9KQAGBGOYMZYI0
+23:02:34 Acceptance Time: 1402499037000
+23:02:34 Worker Id: AG4LUQNMZJ8CF
+23:02:34 Submit Time: 1402499143000
+23:02:34 Approve Assignment for HIT33J5JKFMK69VL1BMX72TZJBXGVM3Q3
+23:02:34 Acceptance Time: 1402499718000
+23:02:34 Worker Id: A81CPD8N647GY
+23:02:34 Submit Time: 1402499828000
+23:02:35 Approve Assignment for HIT3O71U79SRB08K3Y9VTWDQIZ4YAOMSR
+23:02:35 Acceptance Time: 1402499481000
+23:02:35 Worker Id: A81CPD8N647GY
+23:02:35 Submit Time: 1402499582000
+23:02:35 Approve Assignment for HIT3L2OEKSTW9LQV08E0YEJ3MMAVQV8Y3
+23:02:35 Acceptance Time: 1402500275000
+23:02:35 Worker Id: A2W1WL06L1HZ9A
+23:02:35 Submit Time: 1402500427000
+23:02:36 Approve Assignment for HIT3OCZWXS7ZOIN8JIDJLIQXUANKLR5L7
+23:02:36 Acceptance Time: 1402501250000
+23:02:36 Worker Id: A3GAGTT9AHNB8
+23:02:36 Submit Time: 1402501383000
+23:02:36 Approve Assignment for HIT33NOQL7T9OAQ0QIJWKG2HTVC1KZ8ZU
+23:02:36 Acceptance Time: 1402499375000
+23:02:36 Worker Id: A3GAGTT9AHNB8
+23:02:36 Submit Time: 1402499507000
+23:02:37 Approve Assignment for HIT34R3P23QHSCFZ6E7O1Q1V2UTN1LHWS
+23:02:37 Acceptance Time: 1402501598000
+23:02:37 Worker Id: AW5G785I9RVYD
+23:02:37 Submit Time: 1402501675000
+23:02:37 Approve Assignment for HIT3UDTAB6HH6ATCAV3XI9OBQN13JY90S
+23:02:37 Acceptance Time: 1402500773000
+23:02:37 Worker Id: A3GAGTT9AHNB8
+23:02:37 Submit Time: 1402500919000
+23:02:37 Approve Assignment for HIT3MJ28H2Y1EJVE4LAWDYIPBEHFQW5OO
+23:02:37 Acceptance Time: 1402500469000
+23:02:37 Worker Id: A3GAGTT9AHNB8
+23:02:37 Submit Time: 1402500601000
+23:02:38 Approve Assignment for HIT3GITHABACYWLXM2BDFW7CFB056ZN2P
+23:02:38 Acceptance Time: 1402505003000
+23:02:38 Worker Id: A2E98WNOGW8ZIG
+23:02:38 Submit Time: 1402505073000
+23:02:38 Approve Assignment for HIT3LB1BGHFL279TK023WPEUIIX93FYTH
+23:02:38 Acceptance Time: 1402501169000
+23:02:38 Worker Id: A1MRG60OUAT5BA
+23:02:38 Submit Time: 1402501328000
+23:02:39 Approve Assignment for HIT31J7RYECZL1OK1HUIYGEU4X685L1LK
+23:02:39 Acceptance Time: 1402502471000
+23:02:39 Worker Id: A2E98WNOGW8ZIG
+23:02:39 Submit Time: 1402502585000
+23:02:39 Approve Assignment for HIT3S8A4GJRD3EMNSUL28U1C9MP7E3V6V
+23:02:39 Acceptance Time: 1402502184000
+23:02:39 Worker Id: A3GAGTT9AHNB8
+23:02:39 Submit Time: 1402502314000
+23:02:40 Approve Assignment for HIT31YWE12TE0NXVHDLLX0B68J6I0VX7Z
+23:02:40 Acceptance Time: 1402501392000
+23:02:40 Worker Id: A3GAGTT9AHNB8
+23:02:40 Submit Time: 1402501513000
+23:02:40 Approve Assignment for HIT3M67TQBQQHZPDNTLPK6H0WZEC5A9AJ
+23:02:40 Acceptance Time: 1402502445000
+23:02:40 Worker Id: A3GAGTT9AHNB8
+23:02:40 Submit Time: 1402502596000
+23:02:40 Approve Assignment for HIT3MDWE879UHDUWXYDVY6DV7JKUNV9BE
+23:02:40 Acceptance Time: 1402501935000
+23:02:40 Worker Id: A3GAGTT9AHNB8
+23:02:40 Submit Time: 1402502063000
+23:02:41 Approve Assignment for HIT3UDTAB6HH6ATCAV3XI9OBQN13JZ09K
+23:02:41 Acceptance Time: 1402502084000
+23:02:41 Worker Id: A2E98WNOGW8ZIG
+23:02:41 Submit Time: 1402502167000
+23:02:41 Approve Assignment for HIT31D0ZWOD0AA7HT58PONO7LYL91H0AZ
+23:02:41 Acceptance Time: 1402502465000
+23:02:41 Worker Id: A16NPGA6IGAIL0
+23:02:41 Submit Time: 1402502553000
+23:02:42 Approve Assignment for HIT3SD15I2WD252BJS2IYOVTEU6GUB367
+23:02:42 Acceptance Time: 1402500162000
+23:02:42 Worker Id: A81CPD8N647GY
+23:02:42 Submit Time: 1402500229000
+23:02:42 Approve Assignment for HIT3O0M2G5VC6DABYD4GJWQNTDEKVE493
+23:02:42 Acceptance Time: 1402500093000
+23:02:42 Worker Id: A81CPD8N647GY
+23:02:42 Submit Time: 1402500158000
+23:02:43 Approve Assignment for HIT3GKAWYFRAP483HC4QJTGCN7Z2CPPDW
+23:02:43 Acceptance Time: 1402501228000
+23:02:43 Worker Id: A149LFXS2IDFUG
+23:02:43 Submit Time: 1402501420000
+23:02:43 Approve Assignment for HIT3V7ICJJAZARTZRS1E3AMEZ848VH4BD
+23:02:43 Acceptance Time: 1402502540000
+23:02:43 Worker Id: A16WV14RG53U2N
+23:02:43 Submit Time: 1402502661000
+23:02:44 Approve Assignment for HIT34OWYT6U3WS4J5CJ18YUHUNXPDFI9W
+23:02:44 Acceptance Time: 1402502168000
+23:02:44 Worker Id: A2E98WNOGW8ZIG
+23:02:44 Submit Time: 1402502237000
+23:02:44 Approve Assignment for HIT366FYU4PTG0CKWTO9MZSMO3L8EKKEJ
+23:02:44 Acceptance Time: 1402499626000
+23:02:44 Worker Id: A3GAGTT9AHNB8
+23:02:44 Submit Time: 1402499746000
+23:02:44 Approve Assignment for HIT3Z33IC0JC0X95BWJ0FXDWJDRXFBV96
+23:02:44 Acceptance Time: 1402502391000
+23:02:44 Worker Id: A2E98WNOGW8ZIG
+23:02:44 Submit Time: 1402502471000
+23:02:45 Approve Assignment for HIT3LEG2HW4UFY99UPUFRDU4A2R3FDF2A
+23:02:45 Acceptance Time: 1402504732000
+23:02:45 Worker Id: A3G1PE4B8A6UCR
+23:02:45 Submit Time: 1402505020000
+23:02:45 Approve Assignment for HIT3FHTJGYT8NBBF1MVS9UOI8AWF45PG6
+23:02:45 Acceptance Time: 1402499835000
+23:02:45 Worker Id: A81CPD8N647GY
+23:02:45 Submit Time: 1402499894000
+23:02:46 Approve Assignment for HIT3VGET1QSZ0AI6H8VBS4P4P5Z9YOW74
+23:02:46 Acceptance Time: 1402499259000
+23:02:46 Worker Id: A81CPD8N647GY
+23:02:46 Submit Time: 1402499349000
+23:02:46 Approve Assignment for HIT3J9L0X0VDFXMK0WOQP29ILW54OCW9G
+23:02:46 Acceptance Time: 1402498896000
+23:02:46 Worker Id: A3GM3Y2YLVDXUW
+23:02:46 Submit Time: 1402499033000
+23:02:47 Approve Assignment for HIT3Z8UJEJOCZOPT2U0G5R7DOL86VJ39I
+23:02:47 Acceptance Time: 1402502238000
+23:02:47 Worker Id: A2E98WNOGW8ZIG
+23:02:47 Submit Time: 1402502319000
+23:02:47 Approve Assignment for HIT3YZ7A3YHR54ACWD33UFR9GOICFYS57
+23:02:47 Acceptance Time: 1402503606000
+23:02:47 Worker Id: A1K5ADLDP6OPMR
+23:02:47 Submit Time: 1402503747000
+23:02:47 Approve Assignment for HIT3566S7OX5DUP5GSSE4F4BZF5DLG71H
+23:02:47 Acceptance Time: 1402499429000
+23:02:47 Worker Id: A3EWMJ231ZIEDV
+23:02:47 Submit Time: 1402499553000
+23:02:48 Approve Assignment for HIT36AZSFEYZ4BST4BGYZB9NP8HLFEVBG
+23:02:48 Acceptance Time: 1402500974000
+23:02:48 Worker Id: A3GAGTT9AHNB8
+23:02:48 Submit Time: 1402501116000
+23:02:48 Approve Assignment for HIT3U18MJKL1UXYV4UDA8LDOSKMHXCCNN
+23:02:48 Acceptance Time: 1402499353000
+23:02:48 Worker Id: A81CPD8N647GY
+23:02:48 Submit Time: 1402499478000
+23:02:49 Approve Assignment for HIT3S8APUMBJXU3X7PQYK65535VXLQFBC
+23:02:49 Acceptance Time: 1402501437000
+23:02:49 Worker Id: A3IURZ5XXAEN0Z
+23:02:49 Submit Time: 1402501537000
+23:02:49 Approve Assignment for HIT35NNO802AV7P87GD2IHZZVIHU2WNI0
+23:02:49 Acceptance Time: 1402501796000
+23:02:49 Worker Id: A3GAGTT9AHNB8
+23:02:49 Submit Time: 1402501931000
+23:02:49 Approve Assignment for HIT3J94SKDEKI04A7UL64K2EH2IBCPD5Z
+23:02:49 Acceptance Time: 1402502011000
+23:02:49 Worker Id: A2E98WNOGW8ZIG
+23:02:49 Submit Time: 1402502083000
+23:02:50 Approve Assignment for HIT37PGLWGSJTHO01VA55PJ731D07RKIS
+23:02:50 Acceptance Time: 1402500563000
+23:02:50 Worker Id: A3VQADNQW1J6Y6
+23:02:50 Submit Time: 1402500657000
+23:02:50 Approve Assignment for HIT39KV3A5D18IPZ0RMRNUO702E3LTS7M
+23:02:50 Acceptance Time: 1402502319000
+23:02:50 Worker Id: A2E98WNOGW8ZIG
+23:02:50 Submit Time: 1402502390000
+23:02:51 Approve Assignment for HIT36FQTHX3Z328HV9XEP534UGYUVM3BS
+23:02:51 Acceptance Time: 1402502068000
+23:02:51 Worker Id: A3GAGTT9AHNB8
+23:02:51 Submit Time: 1402502179000
+23:02:51 Approve Assignment for HIT3W0KKJIARRKVBVJXWJDSUE7ZXBN8K9
+23:02:51 Acceptance Time: 1402500195000
+23:02:51 Worker Id: A3GAGTT9AHNB8
+23:02:51 Submit Time: 1402500312000
+23:02:52 Approve Assignment for HIT3JVP4ZJHDP3MNBO61CF1OJM4M9M0I3
+23:02:52 Acceptance Time: 1402501553000
+23:02:52 Worker Id: A3GAGTT9AHNB8
+23:02:52 Submit Time: 1402501672000
+23:02:52 Approve Assignment for HIT3LN50BUKPVMR1T0W30R4V0F4BLRPLC
+23:02:52 Acceptance Time: 1402498912000
+23:02:52 Worker Id: A2VSS175DP9WM9
+23:02:52 Submit Time: 1402499035000
+23:02:53 Approve Assignment for HIT3BDORL6HKKOJA2M53F2UXCPWIU1CRB
+23:02:53 Acceptance Time: 1402500903000
+23:02:53 Worker Id: A1MRG60OUAT5BA
+23:02:53 Submit Time: 1402501151000
+23:02:53 Approve Assignment for HIT37PGLWGSJTHO01VA55PJ731D07RIKQ
+23:02:53 Acceptance Time: 1402499772000
+23:02:53 Worker Id: A3GAGTT9AHNB8
+23:02:53 Submit Time: 1402499898000
+23:02:53 Approve Assignment for HIT3O2Y2UIUCQ54QATK4XJY46OLKFZFKW
+23:02:53 Acceptance Time: 1402501121000
+23:02:53 Worker Id: A3GAGTT9AHNB8
+23:02:53 Submit Time: 1402501246000
+23:02:54 Approve Assignment for HIT33KMQD9OFJP3G27U3KWDC96IG7G77E
+23:02:54 Acceptance Time: 1402499586000
+23:02:54 Worker Id: A81CPD8N647GY
+23:02:54 Submit Time: 1402499694000
+23:02:54 Approve Assignment for HIT3VP28W7DUNVZF5S64YM8RLCYOODFZJ
+23:02:54 Acceptance Time: 1402499900000
+23:02:54 Worker Id: A81CPD8N647GY
+23:02:54 Submit Time: 1402499996000
+23:02:55 Approve Assignment for HIT31JUPBOORNF6V11FHJPT9EKEMBS8LC
+23:02:55 Acceptance Time: 1402500047000
+23:02:55 Worker Id: A3GAGTT9AHNB8
+23:02:55 Submit Time: 1402500190000
+23:02:55 Approve Assignment for HIT3KTZHH2ONIQQ1JJ0HVQ89RZ3MGI8ME
+23:02:55 Acceptance Time: 1402502319000
+23:02:55 Worker Id: A3GAGTT9AHNB8
+23:02:55 Submit Time: 1402502439000
+23:02:56 Approve Assignment for HIT30EMX9PEVKUDUFY6AHJXB57095TKSK
+23:02:56 Acceptance Time: 1402499999000
+23:02:56 Worker Id: A81CPD8N647GY
+23:02:56 Submit Time: 1402500075000
+23:02:56 Approve Assignment for HIT3J9UN9O9J33IIM8CJU010K14ZPQJ0F
+23:02:56 Acceptance Time: 1402502823000
+23:02:56 Worker Id: A1OD0ZT1S7HYTX
+23:02:56 Submit Time: 1402502891000
+23:02:56 Approve Assignment for HIT39O6Z4JLX28Z67EH3V3RCMZ94JHXV8
+23:02:56 Acceptance Time: 1402505001000
+23:02:56 Worker Id: A3O652N8XGMS6I
+23:02:56 Submit Time: 1402505231000
+23:02:57 Approve Assignment for HIT3NRZ1LDP7WHB6IH0I1ID3FQ2QVFZPN
+23:02:57 Acceptance Time: 1402505447000
+23:02:57 Worker Id: AT5I4VF891S7I
+23:02:57 Submit Time: 1402505520000
+23:02:57 Approve Assignment for HIT33KGGVH24USJKVYJWHJ25YSTFFBX1K
+23:02:57 Acceptance Time: 1402505486000
+23:02:57 Worker Id: A2Q9H49DGTDG9A
+23:02:57 Submit Time: 1402505653000
+23:02:58 Approve Assignment for HIT38VTL6WC4AO78IPC207GR2CJT1A5YG
+23:02:58 Acceptance Time: 1402502891000
+23:02:58 Worker Id: A1OD0ZT1S7HYTX
+23:02:58 Submit Time: 1402502962000
+23:02:58 Approve Assignment for HIT3HEM8MA6H9N2SQG9V5Z0CMEYLSTPQI
+23:02:58 Acceptance Time: 1402504876000
+23:02:58 Worker Id: AT5I4VF891S7I
+23:02:58 Submit Time: 1402504997000
+23:02:59 Approve Assignment for HIT3XDJY5RK5SW8VQ17EURHJP0SXH4U42
+23:02:59 Acceptance Time: 1402503454000
+23:02:59 Worker Id: A1K5ADLDP6OPMR
+23:02:59 Submit Time: 1402503598000
+23:02:59 Approve Assignment for HIT3CO05SML7VGZGARPRZ9A2BNV96K0RO
+23:02:59 Acceptance Time: 1402505280000
+23:02:59 Worker Id: A2E98WNOGW8ZIG
+23:02:59 Submit Time: 1402505354000
+23:03:00 Approve Assignment for HIT3B286OTISESEJZ6UBWXUPQDH8B2JA6
+23:03:00 Acceptance Time: 1402505073000
+23:03:00 Worker Id: A2E98WNOGW8ZIG
+23:03:00 Submit Time: 1402505137000
+23:03:00 Approve Assignment for HIT307FVKVSYRQ6XFPB1MY69XM8P6774D
+23:03:00 Acceptance Time: 1402505541000
+23:03:00 Worker Id: A3K6SEXO9TDOKF
+23:03:00 Submit Time: 1402505709000
+23:03:01 Approve Assignment for HIT3JHB4BPSFKKH0302EG33QWEJGOD9Q9
+23:03:01 Acceptance Time: 1402503075000
+23:03:01 Worker Id: A2E98WNOGW8ZIG
+23:03:01 Submit Time: 1402503162000
+23:03:01 Approve Assignment for HIT3VEI3XUCZR824RV98KO0HCO3HEVPRJ
+23:03:01 Acceptance Time: 1402505972000
+23:03:01 Worker Id: A2E98WNOGW8ZIG
+23:03:01 Submit Time: 1402506037000
+23:03:02 Approve Assignment for HIT3TZDZ3Y0JSHTJZGLT1DOPV6B8CK91D
+23:03:02 Acceptance Time: 1402502765000
+23:03:02 Worker Id: A2E98WNOGW8ZIG
+23:03:02 Submit Time: 1402502843000
+23:03:02 Approve Assignment for HIT3M4KL7H8KVY61GENVUAC5LF9IBC61Z
+23:03:02 Acceptance Time: 1402503901000
+23:03:02 Worker Id: AEZY08LS97AY2
+23:03:02 Submit Time: 1402504047000
+23:03:02 Approve Assignment for HIT3AXFSPQOYQ99FQN2MCJM3RO85RFJFJ
+23:03:02 Acceptance Time: 1402504308000
+23:03:02 Worker Id: A3O652N8XGMS6I
+23:03:02 Submit Time: 1402504410000
+23:03:03 Approve Assignment for HIT39XCQ6V3KYF5PYF6WHCO8BSQURH65H
+23:03:03 Acceptance Time: 1402504645000
+23:03:03 Worker Id: A3O652N8XGMS6I
+23:03:03 Submit Time: 1402504752000
+23:03:03 Approve Assignment for HIT3KTZHH2ONIQQ1JJ0HVQ89RZ3MHXM89
+23:03:03 Acceptance Time: 1402505097000
+23:03:03 Worker Id: AT5I4VF891S7I
+23:03:03 Submit Time: 1402505177000
+23:03:04 Approve Assignment for HIT3R0WOCG21MKLVMK075SAMTUYAUXUDF
+23:03:04 Acceptance Time: 1402504001000
+23:03:04 Worker Id: A1XHPSFDVME3DG
+23:03:04 Submit Time: 1402504177000
+23:03:04 Approve Assignment for HIT3TX9T2ZCB9C1QRE1UNW8V9YYJSIZWI
+23:03:04 Acceptance Time: 1402504328000
+23:03:04 Worker Id: A1OTSUPX5A2FC4
+23:03:04 Submit Time: 1402504592000
+23:03:05 Approve Assignment for HIT302OLP89DZIRBL0O14G82M0MIRUCAM
+23:03:05 Acceptance Time: 1402504886000
+23:03:05 Worker Id: A3O652N8XGMS6I
+23:03:05 Submit Time: 1402505001000
+23:03:05 Approve Assignment for HIT3VW0145YLYNFL0FJ8ZNZYH8H2SRJMQ
+23:03:05 Acceptance Time: 1402506020000
+23:03:05 Worker Id: A2WXIVY6MRBFCO
+23:03:05 Submit Time: 1402506159000
+23:03:06 Approve Assignment for HIT3UZUVSO3P767AKTRUYC811VPXKVME8
+23:03:06 Acceptance Time: 1402505835000
+23:03:06 Worker Id: A2E98WNOGW8ZIG
+23:03:06 Submit Time: 1402505901000
+23:03:06 Approve Assignment for HIT3P0I4CQYVYIPRN0USELRFBRUZOFOW5
+23:03:06 Acceptance Time: 1402505902000
+23:03:06 Worker Id: A2E98WNOGW8ZIG
+23:03:06 Submit Time: 1402505971000
+23:03:06 Approve Assignment for HIT3LEG2HW4UFY99UPUFRDU4A2R3GUF2T
+23:03:06 Acceptance Time: 1402504603000
+23:03:06 Worker Id: A1OTSUPX5A2FC4
+23:03:06 Submit Time: 1402504685000
+23:03:07 Approve Assignment for HIT34R3P23QHSCFZ6E7O1Q1V2UTN22HWB
+23:03:07 Acceptance Time: 1402506754000
+23:03:07 Worker Id: A28JNR90TDHECB
+23:03:07 Submit Time: 1402506877000
+23:03:07 Approve Assignment for HIT33CLA8O0MIMQDE6FUHSV5IAZF89RFJ
+23:03:07 Acceptance Time: 1402504054000
+23:03:07 Worker Id: A3O652N8XGMS6I
+23:03:07 Submit Time: 1402504169000
+23:03:09 Approve Assignment for HIT3DQYSJDTYLMI4WSV85EHCIBN4OFXE3
+23:03:09 Acceptance Time: 1402503736000
+23:03:09 Worker Id: A12QWJWX1HV06F
+23:03:09 Submit Time: 1402503947000
+23:03:09 Approve Assignment for HIT31ANT7FQN8DLMNZNS03S52HG35XH5T
+23:03:09 Acceptance Time: 1402505898000
+23:03:09 Worker Id: A2WXIVY6MRBFCO
+23:03:09 Submit Time: 1402506014000
+23:03:10 Approve Assignment for HIT391FPZIE4CX272P2T1B0DE9W2MQUHO
+23:03:10 Acceptance Time: 1402506037000
+23:03:10 Worker Id: A2E98WNOGW8ZIG
+23:03:10 Submit Time: 1402506105000
+23:03:10 Approve Assignment for HIT391JB9X4ZYJAWKL1QKNBZW8UHHSKMR
+23:03:10 Acceptance Time: 1402502766000
+23:03:10 Worker Id: A1OD0ZT1S7HYTX
+23:03:10 Submit Time: 1402502823000
+23:03:11 Approve Assignment for HIT3J6BHNX0U93GE2612L2BCBXUM72KNR
+23:03:11 Acceptance Time: 1402504422000
+23:03:11 Worker Id: AQBMTFCUNXND5
+23:03:11 Submit Time: 1402504567000
+23:03:11 Approve Assignment for HIT3VLL1PIENQZTLI5Z315YEFLCGQJOZV
+23:03:11 Acceptance Time: 1402505174000
+23:03:11 Worker Id: AEZY08LS97AY2
+23:03:11 Submit Time: 1402505266000
+23:03:12 Approve Assignment for HIT3EHIMLB7F7A495IPQYAVHMR75VYH8V
+23:03:12 Acceptance Time: 1402505693000
+23:03:12 Worker Id: A2E98WNOGW8ZIG
+23:03:12 Submit Time: 1402505766000
+23:03:12 Approve Assignment for HIT3NSCTNUR2ZY6C0R9MUT0OGUCQA8A5C
+23:03:12 Acceptance Time: 1402502662000
+23:03:12 Worker Id: A2E98WNOGW8ZIG
+23:03:12 Submit Time: 1402502765000
+23:03:12 Approve Assignment for HIT3YD0MU1NC2CLZ45SAN8XM088HG3A7R
+23:03:12 Acceptance Time: 1402502927000
+23:03:12 Worker Id: A2E98WNOGW8ZIG
+23:03:12 Submit Time: 1402503003000
+23:03:13 Approve Assignment for HIT3EN4YVUOUC3QFCENM6P89YOF9WBXJO
+23:03:13 Acceptance Time: 1402506164000
+23:03:13 Worker Id: A2WXIVY6MRBFCO
+23:03:13 Submit Time: 1402506250000
+23:03:13 Approve Assignment for HIT3EKTG13IZUELGQ3JBKZCEWL96HWMLV
+23:03:13 Acceptance Time: 1402505354000
+23:03:13 Worker Id: A2E98WNOGW8ZIG
+23:03:13 Submit Time: 1402505423000
+23:03:14 Approve Assignment for HIT3UQVX1UPFSSICQA4C9U913FNXE502A
+23:03:14 Acceptance Time: 1402505564000
+23:03:14 Worker Id: A2E98WNOGW8ZIG
+23:03:14 Submit Time: 1402505629000
+23:03:14 Approve Assignment for HIT3WA2XVDZEMS5LH8Z7I5RC5Y37KGE6Q
+23:03:14 Acceptance Time: 1402504048000
+23:03:14 Worker Id: AEZY08LS97AY2
+23:03:14 Submit Time: 1402504158000
+23:03:15 Approve Assignment for HIT38O9DZ0A62YDQ1WJEYAQA4PEAHR26D
+23:03:15 Acceptance Time: 1402507186000
+23:03:15 Worker Id: A2E98WNOGW8ZIG
+23:03:15 Submit Time: 1402507278000
+23:03:15 Approve Assignment for HIT39O0SQZVJNIDYLR9CYUJHQXIHKR7RW
+23:03:15 Acceptance Time: 1402505137000
+23:03:15 Worker Id: A2E98WNOGW8ZIG
+23:03:15 Submit Time: 1402505209000
+23:03:15 Approve Assignment for HIT3H4IKZHALBTHM8R4ZYUR43EYG27NNZ
+23:03:15 Acceptance Time: 1402503757000
+23:03:15 Worker Id: A1K5ADLDP6OPMR
+23:03:15 Submit Time: 1402503900000
+23:03:16 Approve Assignment for HIT3MG8450X2OLUKJNQCEJ5MNBNOD0UPT
+23:03:16 Acceptance Time: 1402502999000
+23:03:16 Worker Id: A3PUV8M419R63Z
+23:03:16 Submit Time: 1402503282000
+23:03:16 Approve Assignment for HIT3PGQRAZX02V8EKNNEWKOKDMB7LJSY6
+23:03:16 Acceptance Time: 1402502544000
+23:03:16 Worker Id: A1OD0ZT1S7HYTX
+23:03:16 Submit Time: 1402502671000
+23:03:17 Approve Assignment for HIT38F60IALAGSCWP4HVOE52QODXRIT0V
+23:03:17 Acceptance Time: 1402506773000
+23:03:17 Worker Id: A289DF24X3Q8JZ
+23:03:17 Submit Time: 1402506862000
+23:03:17 Approve Assignment for HIT3OND0WXMHWQLI6SG31WV9WNTGYWEHR
+23:03:17 Acceptance Time: 1402507825000
+23:03:17 Worker Id: A2E98WNOGW8ZIG
+23:03:17 Submit Time: 1402507887000
+23:03:18 Approve Assignment for HIT31YWE12TE0NXVHDLLX0B68J6I1C7XS
+23:03:18 Acceptance Time: 1402505231000
+23:03:18 Worker Id: A3O652N8XGMS6I
+23:03:18 Submit Time: 1402505356000
+23:03:18 Approve Assignment for HIT3BDORL6HKKOJA2M53F2UXCPWIVICRU
+23:03:18 Acceptance Time: 1402506101000
+23:03:18 Worker Id: A3698Y98V194YR
+23:03:18 Submit Time: 1402506173000
+23:03:19 Approve Assignment for HIT3XWUWJ18TL17COVMT0IZWTYMWUSUUP
+23:03:19 Acceptance Time: 1402505769000
+23:03:19 Worker Id: A1OTSUPX5A2FC4
+23:03:19 Submit Time: 1402505839000
+23:03:19 Approve Assignment for HIT39XCQ6V3KYF5PYF6WHCO8BSQURI56H
+23:03:19 Acceptance Time: 1402504411000
+23:03:19 Worker Id: A3O652N8XGMS6I
+23:03:19 Submit Time: 1402504539000
+23:03:20 Approve Assignment for HIT32FESTC2NH1BQUEM79XZ2NCGPUMCUY
+23:03:20 Acceptance Time: 1402505868000
+23:03:20 Worker Id: A1OTSUPX5A2FC4
+23:03:20 Submit Time: 1402506017000
+23:03:20 Approve Assignment for HIT32204AGAABNJ2KO79WMJ9Z85TEBHGB
+23:03:20 Acceptance Time: 1402505568000
+23:03:20 Worker Id: A1OTSUPX5A2FC4
+23:03:20 Submit Time: 1402505655000
+23:03:20 Approve Assignment for HIT3LEG2HW4UFY99UPUFRDU4A2R3GU2FG
+23:03:20 Acceptance Time: 1402504199000
+23:03:20 Worker Id: A1OTSUPX5A2FC4
+23:03:20 Submit Time: 1402504297000
+23:03:21 Approve Assignment for HIT3PEG1BH7AE2EDTH4ZVX2LGX05INKB1
+23:03:21 Acceptance Time: 1402505183000
+23:03:21 Worker Id: AT5I4VF891S7I
+23:03:21 Submit Time: 1402505258000
+23:03:21 Approve Assignment for HIT3DZKABX2ZIGB393MCZ74Y9EZ31VCVN
+23:03:21 Acceptance Time: 1402503003000
+23:03:21 Worker Id: A2E98WNOGW8ZIG
+23:03:21 Submit Time: 1402503074000
+23:03:21 Approve Assignment for HIT3UOMW19E6DHU5FO768PRUBK0QDT5C9
+23:03:21 Acceptance Time: 1402502670000
+23:03:21 Worker Id: A1ZNDYP1YSDWJJ
+23:03:21 Submit Time: 1402502871000
+23:03:22 Approve Assignment for HIT37NXA7GVSTH46DXSPC031S4MXA9VLM
+23:03:22 Acceptance Time: 1402502689000
+23:03:22 Worker Id: A16WV14RG53U2N
+23:03:22 Submit Time: 1402502776000
+23:03:22 Approve Assignment for HIT372AGES0I4G7D0X0UBYHBPA6JD5RXA
+23:03:22 Acceptance Time: 1402502586000
+23:03:22 Worker Id: A2E98WNOGW8ZIG
+23:03:22 Submit Time: 1402502662000
+23:03:23 Approve Assignment for HIT34R0BODSP1A92D8L2ZVMKZK3BP65E2
+23:03:23 Acceptance Time: 1402503033000
+23:03:23 Worker Id: A2202H40MNWWND
+23:03:23 Submit Time: 1402503286000
+23:03:23 Approve Assignment for HIT3SNR5F7R924LE1309JEG98O8GBCIEP
+23:03:23 Acceptance Time: 1402502844000
+23:03:23 Worker Id: A2E98WNOGW8ZIG
+23:03:23 Submit Time: 1402502927000
+23:03:24 Approve Assignment for HIT3I6NF2WGIG77MR4C8ULAK25FO5L5GJ
+23:03:24 Acceptance Time: 1402504260000
+23:03:24 Worker Id: A1K5ADLDP6OPMR
+23:03:24 Submit Time: 1402504376000
+23:03:24 Approve Assignment for HIT3T6SSHJUZFLXU65M5247UNM084JIIY
+23:03:24 Acceptance Time: 1402504169000
+23:03:24 Worker Id: A3O652N8XGMS6I
+23:03:24 Submit Time: 1402504307000
+23:03:25 Approve Assignment for HIT3ICOHX7ENCMA76MK5TPA34OCUHV0EC
+23:03:25 Acceptance Time: 1402503569000
+23:03:25 Worker Id: A1OTSUPX5A2FC4
+23:03:25 Submit Time: 1402503884000
+23:03:25 Approve Assignment for HIT37S0QRNUFBRBGUHWNUGP49Y82C9888
+23:03:25 Acceptance Time: 1402505264000
+23:03:25 Worker Id: AT5I4VF891S7I
+23:03:25 Submit Time: 1402505338000
+23:03:25 Approve Assignment for HIT35U0MRQMUJICCY0P24GVT98GSFEVO3
+23:03:25 Acceptance Time: 1402505766000
+23:03:25 Worker Id: A2E98WNOGW8ZIG
+23:03:25 Submit Time: 1402505835000
+23:03:26 Approve Assignment for HIT39N6W9XWRDY5OFEWJWQ7VZ38JAPYGS
+23:03:26 Acceptance Time: 1402504753000
+23:03:26 Worker Id: A3O652N8XGMS6I
+23:03:26 Submit Time: 1402504885000
+23:03:26 Approve Assignment for HIT35A1YQPVFERLIIA7YILD5EIV3ID5IB
+23:03:26 Acceptance Time: 1402505209000
+23:03:26 Worker Id: A2E98WNOGW8ZIG
+23:03:26 Submit Time: 1402505280000
+23:03:27 Approve Assignment for HIT3WRBLBQ2GRJ8RKIBBOFY379O7XA0GT
+23:03:27 Acceptance Time: 1402505323000
+23:03:27 Worker Id: A2Q9H49DGTDG9A
+23:03:27 Submit Time: 1402505481000
+23:03:27 Approve Assignment for HIT3J9UN9O9J33IIM8CJU010K14ZPR0JX
+23:03:27 Acceptance Time: 1402506106000
+23:03:27 Worker Id: A2E98WNOGW8ZIG
+23:03:27 Submit Time: 1402506172000
+23:03:28 Approve Assignment for HIT3RBI0I35XEE4U328OHJNC5EZF5L3YQ
+23:03:28 Acceptance Time: 1402504587000
+23:03:28 Worker Id: AQBMTFCUNXND5
+23:03:28 Submit Time: 1402504666000
+23:03:28 Approve Assignment for HIT3ZURAPD288Y2K97YWNDGZRSMBAH1FZ
+23:03:28 Acceptance Time: 1402505357000
+23:03:28 Worker Id: A3O652N8XGMS6I
+23:03:28 Submit Time: 1402505497000
+23:03:28 Approve Assignment for HIT3UQ1LLR26AJKEPUUEH9755Q9C08LAB
+23:03:28 Acceptance Time: 1402505630000
+23:03:28 Worker Id: A2E98WNOGW8ZIG
+23:03:28 Submit Time: 1402505693000
+23:03:29 Approve Assignment for HIT3D0LPO3EABATGSVU7F3F08CAAWGYOF
+23:03:29 Acceptance Time: 1402505003000
+23:03:29 Worker Id: AT5I4VF891S7I
+23:03:29 Submit Time: 1402505092000
+23:03:29 Approve Assignment for HIT3CO05SML7VGZGARPRZ9A2BNV96LR0G
+23:03:29 Acceptance Time: 1402504706000
+23:03:29 Worker Id: A1OTSUPX5A2FC4
+23:03:29 Submit Time: 1402504824000
+23:03:30 Approve Assignment for HIT3XU9MCX6VON6CKU36MDOLZGA645R20
+23:03:30 Acceptance Time: 1402502672000
+23:03:30 Worker Id: A838BEXV902ES
+23:03:30 Submit Time: 1402502902000
+23:03:30 Approve Assignment for HIT3B623HUYJ41TZEW51SMUL0Y9E6FS8R
+23:03:30 Acceptance Time: 1402503246000
+23:03:30 Worker Id: A2E98WNOGW8ZIG
+23:03:30 Submit Time: 1402503317000
+23:03:31 Approve Assignment for HIT3XU9MCX6VON6CKU36MDOLZGA6452RB
+23:03:31 Acceptance Time: 1402503163000
+23:03:31 Worker Id: A2E98WNOGW8ZIG
+23:03:31 Submit Time: 1402503246000
+23:03:31 Approve Assignment for HIT3PGQRAZX02V8EKNNEWKOKDMB7LJYSC
+23:03:31 Acceptance Time: 1402504539000
+23:03:31 Worker Id: A3O652N8XGMS6I
+23:03:31 Submit Time: 1402504644000
+23:03:32 Approve Assignment for HIT3VP28W7DUNVZF5S64YM8RLCYOPTFZ1
+23:03:32 Acceptance Time: 1402504831000
+23:03:32 Worker Id: A1OTSUPX5A2FC4
+23:03:32 Submit Time: 1402504930000
+23:03:32 Approve Assignment for HIT3UUIU9GZC5GBRWQISUKHJLK4EZT5TS
+23:03:32 Acceptance Time: 1402506879000
+23:03:32 Worker Id: A28JNR90TDHECB
+23:03:32 Submit Time: 1402506951000
+23:03:33 Approve Assignment for HIT3QHITW7OYOKV5MA76MH3MRP3M6VAQP
+23:03:33 Acceptance Time: 1402505530000
+23:03:33 Worker Id: AT5I4VF891S7I
+23:03:33 Submit Time: 1402505614000
+23:03:33 Approve Assignment for HIT3PMR2DOWOOCRABBSDTJ9BD8CY0D45W
+23:03:33 Acceptance Time: 1402505347000
+23:03:33 Worker Id: AT5I4VF891S7I
+23:03:33 Submit Time: 1402505441000
+23:03:33 Approve Assignment for HIT3C8QQOM6JPCZK7DSQ51KM3ESP8DLIF
+23:03:33 Acceptance Time: 1402506323000
+23:03:33 Worker Id: A2E98WNOGW8ZIG
+23:03:33 Submit Time: 1402506399000
+23:03:34 Approve Assignment for HIT38VTL6WC4AO78IPC207GR2CJT1B5YH
+23:03:34 Acceptance Time: 1402505498000
+23:03:34 Worker Id: A2E98WNOGW8ZIG
+23:03:34 Submit Time: 1402505563000
+23:03:34 Approve Assignment for HIT3CMV9YRYP3CVFIXY8NMKY4TS2N2LJR
+23:03:34 Acceptance Time: 1402505423000
+23:03:34 Worker Id: A2E98WNOGW8ZIG
+23:03:34 Submit Time: 1402505498000
+23:03:35 Approve Assignment for HIT309D674SHZWWUV5G7IG4XXKS09GCBI
+23:03:35 Acceptance Time: 1402502672000
+23:03:35 Worker Id: A1OD0ZT1S7HYTX
+23:03:35 Submit Time: 1402502766000
+23:03:35 Approve Assignment for HIT3CO05SML7VGZGARPRZ9A2BNV96L0RP
+23:03:35 Acceptance Time: 1402503513000
+23:03:35 Worker Id: A12QWJWX1HV06F
+23:03:35 Submit Time: 1402503735000
+23:03:36 Approve Assignment for HIT37YYO3NWHD1F40XMLICZ8HQAIUGCCP
+23:03:36 Acceptance Time: 1402505668000
+23:03:36 Worker Id: A1OTSUPX5A2FC4
+23:03:36 Submit Time: 1402505761000
+23:03:36 Approve Assignment for HIT3EHVO81VN5WMY5Y4RD1G2C4ZRP91HC
+23:03:36 Acceptance Time: 1402507033000
+23:03:36 Worker Id: A2E98WNOGW8ZIG
+23:03:36 Submit Time: 1402507186000
+23:03:37 Approve Assignment for HIT3VW0145YLYNFL0FJ8ZNZYH8H2S8MJA
+23:03:37 Acceptance Time: 1402507887000
+23:03:37 Worker Id: A2E98WNOGW8ZIG
+23:03:37 Submit Time: 1402508035000
+23:03:37 Approve Assignment for HIT3XBYQ44Z6PF54F52OV7Q9LXHYWCWTF
+23:03:37 Acceptance Time: 1402508035000
+23:03:37 Worker Id: A2E98WNOGW8ZIG
+23:03:37 Submit Time: 1402508192000
+23:03:37 Approve Assignment for HIT3XBYQ44Z6PF54F52OV7Q9LXHYWCTWC
+23:03:37 Acceptance Time: 1402506557000
+23:03:37 Worker Id: A2E98WNOGW8ZIG
+23:03:37 Submit Time: 1402506710000
+23:03:38 Approve Assignment for HIT3P888QFVX35K7Q48G5MLNM98BNEOQH
+23:03:38 Acceptance Time: 1402507180000
+23:03:38 Worker Id: A3959GYL1Z4EO0
+23:03:38 Submit Time: 1402507577000
+23:03:38 Approve Assignment for HIT3GMLHYZ0LE8OTXFR31FOZE4ZSIKUY4
+23:03:38 Acceptance Time: 1402506711000
+23:03:38 Worker Id: A2E98WNOGW8ZIG
+23:03:38 Submit Time: 1402506880000
+23:03:39 Approve Assignment for HIT3XDJY5RK5SW8VQ17EURHJP0SXHL4UT
+23:03:39 Acceptance Time: 1402506173000
+23:03:39 Worker Id: A2E98WNOGW8ZIG
+23:03:39 Submit Time: 1402506323000
+23:03:39 Approve Assignment for HIT3YOAVL4CA0SPHPVHKHQP0HF7ZZ04ZI
+23:03:39 Acceptance Time: 1402508370000
+23:03:39 Worker Id: A2E98WNOGW8ZIG
+23:03:39 Submit Time: 1402508597000
+23:03:39 Reject Assignment for HIT3L21G7IH4778K0OT1D54OCZ2HLMY18
+23:03:39 Num of right answers 36
+23:03:39 Worker Id ABIPPF1B1RM50
+23:03:39 Answer String <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<QuestionFormAnswers xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd">
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>comments</QuestionIdentifier>
+<FreeText/>
+</Answer>
+</QuestionFormAnswers>
+
+23:03:40 Approve Assignment for HIT3CO05SML7VGZGARPRZ9A2BNV9620R6
+23:03:40 Acceptance Time: 1402508776000
+23:03:40 Worker Id: A2E98WNOGW8ZIG
+23:03:40 Submit Time: 1402508929000
+23:03:40 Approve Assignment for HIT3FW4EL5A3LZP80DIRWYNKR82UC522C
+23:03:40 Acceptance Time: 1402507498000
+23:03:40 Worker Id: A2E98WNOGW8ZIG
+23:03:40 Submit Time: 1402507662000
+23:03:41 Approve Assignment for HIT3SD15I2WD252BJS2IYOVTEU6GV8639
+23:03:41 Acceptance Time: 1402507663000
+23:03:41 Worker Id: A2E98WNOGW8ZIG
+23:03:41 Submit Time: 1402507825000
+23:03:41 Approve Assignment for HIT38F60IALAGSCWP4HVOE52QODXRZ0TJ
+23:03:41 Acceptance Time: 1402506467000
+23:03:41 Worker Id: A289DF24X3Q8JZ
+23:03:41 Submit Time: 1402506747000
+23:03:42 Approve Assignment for HIT341H3G5YF0P8I1DG1G3NOEPUINL0ZZ
+23:03:42 Acceptance Time: 1402506880000
+23:03:42 Worker Id: A2E98WNOGW8ZIG
+23:03:42 Submit Time: 1402507033000
+23:03:42 Approve Assignment for HIT3MJ9GGZYO3HED38M4BR2Q9R060X2AJ
+23:03:42 Acceptance Time: 1402506399000
+23:03:42 Worker Id: A2E98WNOGW8ZIG
+23:03:42 Submit Time: 1402506556000
+23:03:42 Approve Assignment for HIT37Y5RYYI0PGJEFXD90YM1ZF25F5SXG
+23:03:42 Acceptance Time: 1402506258000
+23:03:42 Worker Id: A2WXIVY6MRBFCO
+23:03:42 Submit Time: 1402506448000
+23:03:43 Approve Assignment for HIT3L55D8AUFA8S73YRHAUO58ITLIDYCY
+23:03:43 Acceptance Time: 1402507279000
+23:03:43 Worker Id: A2E98WNOGW8ZIG
+23:03:43 Submit Time: 1402507498000
+23:03:43 Approve Assignment for HIT3MD8CKRQZZY6IGSBD7JGKG2R8F6RJ2
+23:03:43 Acceptance Time: 1402508192000
+23:03:43 Worker Id: A2E98WNOGW8ZIG
+23:03:43 Submit Time: 1402508370000
+23:03:44 Approve Assignment for HIT3BCRDCM0OD587H0934GUA0B8RHU6KK
+23:03:44 Acceptance Time: 1402508598000
+23:03:44 Worker Id: A2E98WNOGW8ZIG
+23:03:44 Submit Time: 1402508775000
+23:03:44 Approve Assignment for HIT324N5FAHSXMTM7FA4CO2MSR78B0VKH
+23:03:44 Acceptance Time: 1402511404000
+23:03:44 Worker Id: A19VI2RYOCVZUP
+23:03:44 Submit Time: 1402511703000
+23:03:45 Approve Assignment for HIT3MDKGGG61QY7A0QWXDUMBRY4AV0T6U
+23:03:45 Acceptance Time: 1402509822000
+23:03:45 Worker Id: ABIPPF1B1RM50
+23:03:45 Submit Time: 1402510398000
+23:03:45 Approve Assignment for HIT30Y6N4AHYP7TFUSJ3BX5HI7E3WRDRU
+23:03:45 Acceptance Time: 1402510176000
+23:03:45 Worker Id: A22EYP7P3W77S
+23:03:45 Submit Time: 1402510591000
+23:03:45 Approve Assignment for HIT371DNNCG44DUEE9KQSRKV5UVGQQT8G
+23:03:45 Acceptance Time: 1402512911000
+23:03:45 Worker Id: A3EDOEVPELZP14
+23:03:45 Submit Time: 1402513516000
+23:03:46 Approve Assignment for HIT3WRKFXQBOBIJK6KR9KQAGBGOYOEIY3
+23:03:46 Acceptance Time: 1402511004000
+23:03:46 Worker Id: A2T9PJE6Y4PIZR
+23:03:46 Submit Time: 1402511311000
+23:03:46 Approve Assignment for HIT34F34TZU7WAPEWBQYH4FJ8UJWO8J2Z
+23:03:46 Acceptance Time: 1402510261000
+23:03:46 Worker Id: ARSXA2ZPDMVVL
+23:03:46 Submit Time: 1402510899000
+23:03:47 Approve Assignment for HIT3DWNFENNE36ZHAQD2VN3CNRHG24J4V
+23:03:47 Acceptance Time: 1402510043000
+23:03:47 Worker Id: A2CCF7SXHNAD1J
+23:03:47 Submit Time: 1402510222000
+23:03:47 Approve Assignment for HIT3OYHVNTV5T9YWN6D302OR0XZCI4OK9
+23:03:47 Acceptance Time: 1402509875000
+23:03:47 Worker Id: A1FUBGE9CHDHU6
+23:03:47 Submit Time: 1402510225000
+23:03:48 Approve Assignment for HIT3VAOOVPI3Z31A8LYB8YXEJ6K6DNLLB
+23:03:48 Acceptance Time: 1402516151000
+23:03:48 Worker Id: A2E98WNOGW8ZIG
+23:03:48 Submit Time: 1402516323000
+23:03:48 Approve Assignment for HIT3NSM4HLQNR5NS2HOVIEPCR48QPXQQU
+23:03:48 Acceptance Time: 1402515463000
+23:03:48 Worker Id: A2E98WNOGW8ZIG
+23:03:48 Submit Time: 1402515651000
+23:03:48 Approve Assignment for HIT3Q9SPIIRWJX0PJ6TIVG9EG7PA8SWAX
+23:03:48 Acceptance Time: 1402516798000
+23:03:48 Worker Id: A2E98WNOGW8ZIG
+23:03:48 Submit Time: 1402516956000
+23:03:49 Approve Assignment for HIT3OEWW2KGQJMQIH03BJG1NN29S9QDO4
+23:03:49 Acceptance Time: 1402516643000
+23:03:49 Worker Id: A2E98WNOGW8ZIG
+23:03:49 Submit Time: 1402516798000
+23:03:49 Approve Assignment for HIT3E24UO25QZ1RX8LO1W8NHHSHBN3O6N
+23:03:49 Acceptance Time: 1402515464000
+23:03:49 Worker Id: A1OTSUPX5A2FC4
+23:03:49 Submit Time: 1402516296000
+23:03:49 Approve Assignment for HIT30EMX9PEVKUDUFY6AHJXB57097PSKS
+23:03:49 Acceptance Time: 1402515225000
+23:03:49 Worker Id: A1OTSUPX5A2FC4
+23:03:49 Submit Time: 1402515442000
+23:03:50 Approve Assignment for HIT39O6Z4JLX28Z67EH3V3RCMZ94KYXVR
+23:03:50 Acceptance Time: 1402516481000
+23:03:50 Worker Id: A2E98WNOGW8ZIG
+23:03:50 Submit Time: 1402516643000
+23:03:50 Approve Assignment for HIT33P2GD6NRN3O46KQZN7Y7R0Y0W8HKW
+23:03:50 Acceptance Time: 1402515999000
+23:03:50 Worker Id: A2E98WNOGW8ZIG
+23:03:50 Submit Time: 1402516150000
+23:03:51 Approve Assignment for HIT3EQVJH0T40WN7PADTWLQ8INUJ90THF
+23:03:51 Acceptance Time: 1402515234000
+23:03:51 Worker Id: A2E98WNOGW8ZIG
+23:03:51 Submit Time: 1402515463000
+23:03:51 Approve Assignment for HIT31KPKEKW4AOC03A0V2NK2WIRRLYB05
+23:03:51 Acceptance Time: 1402516690000
+23:03:51 Worker Id: A13L9C7CEI61B0
+23:03:51 Submit Time: 1402516955000
+23:03:52 Approve Assignment for HIT35XW21VSVGPOELGOVHVYQ5KFY7VLSP
+23:03:52 Acceptance Time: 1402515822000
+23:03:52 Worker Id: A2E98WNOGW8ZIG
+23:03:52 Submit Time: 1402515998000
+23:03:52 Approve Assignment for HIT3H5TOKO3D9UNTFB6ICTE3JMCUW364V
+23:03:52 Acceptance Time: 1402516323000
+23:03:52 Worker Id: A2E98WNOGW8ZIG
+23:03:52 Submit Time: 1402516480000
+23:03:53 Approve Assignment for HIT3WRBLBQ2GRJ8RKIBBOFY379O7YQ0GB
+23:03:53 Acceptance Time: 1402515652000
+23:03:53 Worker Id: A2E98WNOGW8ZIG
+23:03:53 Submit Time: 1402515821000
+23:03:53 Approve Assignment for HIT3X0EMNLXEP0UXYCQH4TAI9D62LPPVV
+23:03:53 Acceptance Time: 1402515016000
+23:03:53 Worker Id: A2E98WNOGW8ZIG
+23:03:53 Submit Time: 1402515234000
+23:03:54 Approve Assignment for HIT3G5RUKN2ECEWX6NAYOBMM2JEBFM9NM
+23:03:54 Acceptance Time: 1402516886000
+23:03:54 Worker Id: A2VZ11Z9M0NP55
+23:03:54 Submit Time: 1402517282000
+23:04:56 Expired 0 HITs
+23:05:29 Disposed 187 HITs
+23:05:29 Cleared all HITs

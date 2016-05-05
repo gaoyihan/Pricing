@@ -1,0 +1,1563 @@
+22:52:48 Expired 0 HITs
+22:53:09 Disposed 0 HITs
+22:53:09 Cleared all HITs
+22:53:23 Approve Assignment for HIT30Z7M1Q8UYVPZIABKS030043RHZA81
+22:53:23 Acceptance Time: 1402066847000
+22:53:23 Worker Id: A2PAO2ENJ5XY1T
+22:53:23 Submit Time: 1402066941000
+22:53:23 Approve Assignment for HIT39RRBHZ0AUCOB2EW4DRC97FKB07VZS
+22:53:23 Acceptance Time: 1402068845000
+22:53:23 Worker Id: A2ZHJXNVKRDEH1
+22:53:23 Submit Time: 1402068894000
+22:53:24 Approve Assignment for HIT3W0KKJIARRKVBVJXWJDSUE7ZWTU8KF
+22:53:24 Acceptance Time: 1402069582000
+22:53:24 Worker Id: A2E98WNOGW8ZIG
+22:53:24 Submit Time: 1402069654000
+22:53:24 Approve Assignment for HIT37SOB9Z0SS8KU4V952UXIXC35773LL
+22:53:24 Acceptance Time: 1402069303000
+22:53:24 Worker Id: A2E98WNOGW8ZIG
+22:53:24 Submit Time: 1402069406000
+22:53:24 Approve Assignment for HIT3S1WOPCJFG4H9CN6R1ZGL938S7SJEQ
+22:53:24 Acceptance Time: 1402073915000
+22:53:24 Worker Id: A2Z9PSNG136S1C
+22:53:24 Submit Time: 1402074247000
+22:53:25 Approve Assignment for HIT35NNO802AV7P87GD2IHZZVIHTK3NI6
+22:53:25 Acceptance Time: 1402068390000
+22:53:25 Worker Id: A2ZHJXNVKRDEH1
+22:53:25 Submit Time: 1402068469000
+22:53:25 Approve Assignment for HIT37G6BXQPLQWYVZRJMRJPIAFU62JQEN
+22:53:25 Acceptance Time: 1402069627000
+22:53:25 Worker Id: A27MT0R9KYBDQ6
+22:53:25 Submit Time: 1402069807000
+22:53:26 Approve Assignment for HIT3J6BHNX0U93GE2612L2BCBXULOSNKH
+22:53:26 Acceptance Time: 1402069711000
+22:53:26 Worker Id: A28EJSYXW5MY93
+22:53:26 Submit Time: 1402069845000
+22:53:26 Approve Assignment for HIT302OLP89DZIRBL0O14G82M0MH8KAC7
+22:53:26 Acceptance Time: 1402069235000
+22:53:26 Worker Id: A3PGMMCKGP8F4S
+22:53:26 Submit Time: 1402069404000
+22:53:26 Approve Assignment for HIT3X4Q1O9UBHXA18ZTK6DFNVSD5EX7OA
+22:53:26 Acceptance Time: 1402069505000
+22:53:26 Worker Id: A2E98WNOGW8ZIG
+22:53:26 Submit Time: 1402069581000
+22:53:27 Approve Assignment for HIT3Y3N5A7N4GK5GPAIUZO284N5EDRYMN
+22:53:27 Acceptance Time: 1402067414000
+22:53:27 Worker Id: A3CDWNUQUYX1OR
+22:53:27 Submit Time: 1402067556000
+22:53:27 Approve Assignment for HIT32CAVSKPCE0R3R4ORC8FLRTPKEMU1E
+22:53:27 Acceptance Time: 1402069908000
+22:53:27 Worker Id: A2E98WNOGW8ZIG
+22:53:27 Submit Time: 1402069991000
+22:53:28 Approve Assignment for HIT3LVTFB9DE5TWFDNASM9DID06JIYQG4
+22:53:28 Acceptance Time: 1402069835000
+22:53:28 Worker Id: A2E98WNOGW8ZIG
+22:53:28 Submit Time: 1402069908000
+22:53:28 Approve Assignment for HIT3VMV5CHJZ8Q97TF29Q38NIBT3PYGT9
+22:53:28 Acceptance Time: 1402068055000
+22:53:28 Worker Id: A3IXXL16R8VL7V
+22:53:28 Submit Time: 1402068110000
+22:53:29 Approve Assignment for HIT3I7SHAD35M7M15EH7QY2VR38AEJM7B
+22:53:29 Acceptance Time: 1402067442000
+22:53:29 Worker Id: A3IXXL16R8VL7V
+22:53:29 Submit Time: 1402067508000
+22:53:29 Approve Assignment for HIT33J5JKFMK69VL1BMX72TZJBXFDU3QA
+22:53:29 Acceptance Time: 1402069807000
+22:53:29 Worker Id: A27MT0R9KYBDQ6
+22:53:29 Submit Time: 1402069894000
+22:53:29 Approve Assignment for HIT373L46LKP7HKVCFGNNAJJ4GDC4OJKA
+22:53:29 Acceptance Time: 1402068708000
+22:53:29 Worker Id: A2ZHJXNVKRDEH1
+22:53:29 Submit Time: 1402068763000
+22:53:30 Approve Assignment for HIT38Z7YZ2SB3DAB4T5IA9G3PDMYVQQIW
+22:53:30 Acceptance Time: 1402069845000
+22:53:30 Worker Id: A28EJSYXW5MY93
+22:53:30 Submit Time: 1402071985000
+22:53:30 Approve Assignment for HIT3ZVPAMTJWNEWRE2A51YDN3ABF41RG7
+22:53:30 Acceptance Time: 1402069628000
+22:53:30 Worker Id: A3PGMMCKGP8F4S
+22:53:30 Submit Time: 1402069787000
+22:53:31 Approve Assignment for HIT356ZPKYPUHSB1S7VMFGUP8H0JI2YPJ
+22:53:31 Acceptance Time: 1402069166000
+22:53:31 Worker Id: A27MT0R9KYBDQ6
+22:53:31 Submit Time: 1402069296000
+22:53:31 Approve Assignment for HIT3HA5ODM5KA3RAQSI9LX4DEIHOL7SVK
+22:53:31 Acceptance Time: 1402069296000
+22:53:31 Worker Id: A27MT0R9KYBDQ6
+22:53:31 Submit Time: 1402069627000
+22:53:32 Approve Assignment for HIT3HO4MYYR12ZMAD5LXIKWGNK6SP2U6C
+22:53:32 Acceptance Time: 1402069142000
+22:53:32 Worker Id: A2E98WNOGW8ZIG
+22:53:32 Submit Time: 1402069220000
+22:53:32 Approve Assignment for HIT39XCQ6V3KYF5PYF6WHCO8BSQT89656
+22:53:32 Acceptance Time: 1402067321000
+22:53:32 Worker Id: A3IXXL16R8VL7V
+22:53:32 Submit Time: 1402067436000
+22:53:32 Approve Assignment for HIT31GN6YMHLP34PFSNZV20ZG1VVU9SWU
+22:53:32 Acceptance Time: 1402070325000
+22:53:32 Worker Id: A2E98WNOGW8ZIG
+22:53:32 Submit Time: 1402070419000
+22:53:33 Approve Assignment for HIT3BKZLF990ZAW148AMSVJPD7AOEOYQA
+22:53:33 Acceptance Time: 1402068873000
+22:53:33 Worker Id: A2V2XNLCDM7WPV
+22:53:33 Submit Time: 1402069086000
+22:53:33 Approve Assignment for HIT3LB1BGHFL279TK023WPEUIIX8LNYTO
+22:53:33 Acceptance Time: 1402068117000
+22:53:33 Worker Id: A3IXXL16R8VL7V
+22:53:33 Submit Time: 1402068174000
+22:53:33 Approve Assignment for HIT3AJA9FLWSC9DKF3W4UYMRQ98RTHIFU
+22:53:33 Acceptance Time: 1402068348000
+22:53:33 Worker Id: A3IXXL16R8VL7V
+22:53:33 Submit Time: 1402068414000
+22:53:34 Approve Assignment for HIT3X2LT8FDHWTM6VDELXWVIP1UJ02W8Y
+22:53:34 Acceptance Time: 1402069792000
+22:53:34 Worker Id: A3PGMMCKGP8F4S
+22:53:34 Submit Time: 1402069956000
+22:53:34 Approve Assignment for HIT3OB6JN3A9Q0WJOYWG4W808U8BQDRMF
+22:53:34 Acceptance Time: 1402068553000
+22:53:34 Worker Id: A2ZHJXNVKRDEH1
+22:53:34 Submit Time: 1402068612000
+22:53:34 Approve Assignment for HIT3D42WVSDH86ZAFI18CKPDE3WHCFFYX
+22:53:34 Acceptance Time: 1402067254000
+22:53:34 Worker Id: A3CDWNUQUYX1OR
+22:53:34 Submit Time: 1402067408000
+22:53:35 Approve Assignment for HIT3TX9T2ZCB9C1QRE1UNW8V9YYI9AWZ4
+22:53:35 Acceptance Time: 1402068145000
+22:53:35 Worker Id: A28EJSYXW5MY93
+22:53:35 Submit Time: 1402068369000
+22:53:35 Approve Assignment for HIT3TLFH2L6Y9ZJSZ7VABIJLEHST6ST22
+22:53:35 Acceptance Time: 1402069221000
+22:53:35 Worker Id: A2E98WNOGW8ZIG
+22:53:35 Submit Time: 1402069302000
+22:53:35 Approve Assignment for HIT3909MD9T2ZS14A1A8B8V6BBGZ0BEFI
+22:53:35 Acceptance Time: 1402068740000
+22:53:35 Worker Id: A1EXWJGPBPIE4W
+22:53:35 Submit Time: 1402068858000
+22:53:36 Approve Assignment for HIT31ANT7FQN8DLMNZNS03S52HG2MPH5I
+22:53:36 Acceptance Time: 1402069991000
+22:53:36 Worker Id: A2E98WNOGW8ZIG
+22:53:36 Submit Time: 1402070092000
+22:53:36 Approve Assignment for HIT3M47JKRKCXCOCGY8UFJRKV2HVYA688
+22:53:36 Acceptance Time: 1402070257000
+22:53:36 Worker Id: A2E98WNOGW8ZIG
+22:53:36 Submit Time: 1402070325000
+22:53:37 Approve Assignment for HIT35JDMRECC4K7IAX5JVEDOWBS0FBEGH
+22:53:37 Acceptance Time: 1402067517000
+22:53:37 Worker Id: A3IXXL16R8VL7V
+22:53:37 Submit Time: 1402067589000
+22:53:37 Approve Assignment for HIT3VEI3XUCZR824RV98KO0HCO3GVORPB
+22:53:37 Acceptance Time: 1402068202000
+22:53:37 Worker Id: A3IXXL16R8VL7V
+22:53:37 Submit Time: 1402068262000
+22:53:38 Approve Assignment for HIT3UEBBGULPFZIT6YWYBN0ATXJLO5UFF
+22:53:38 Acceptance Time: 1402068945000
+22:53:38 Worker Id: A2ZHJXNVKRDEH1
+22:53:38 Submit Time: 1402069006000
+22:53:38 Approve Assignment for HIT37PGLWGSJTHO01VA55PJ731DZPYIKW
+22:53:38 Acceptance Time: 1402068993000
+22:53:38 Worker Id: A2E98WNOGW8ZIG
+22:53:38 Submit Time: 1402069069000
+22:53:38 Approve Assignment for HIT3MDKGGG61QY7A0QWXDUMBRY49BUT6J
+22:53:38 Acceptance Time: 1402068286000
+22:53:38 Worker Id: A3IXXL16R8VL7V
+22:53:38 Submit Time: 1402068339000
+22:53:39 Approve Assignment for HIT3VW0145YLYNFL0FJ8ZNZYH8H19JJMF
+22:53:39 Acceptance Time: 1402069083000
+22:53:39 Worker Id: A3PGMMCKGP8F4S
+22:53:39 Submit Time: 1402069225000
+22:53:39 Approve Assignment for HIT30OITAWPBQE4NA1ZVQG9HIMIOI8H99
+22:53:39 Acceptance Time: 1402067048000
+22:53:39 Worker Id: A3CDWNUQUYX1OR
+22:53:39 Submit Time: 1402067193000
+22:53:39 Approve Assignment for HIT3VP28W7DUNVZF5S64YM8RLCYN6JFZO
+22:53:39 Acceptance Time: 1402069069000
+22:53:39 Worker Id: A2E98WNOGW8ZIG
+22:53:39 Submit Time: 1402069142000
+22:53:40 Approve Assignment for HIT341H3G5YF0P8I1DG1G3NOEPUH4V0Z6
+22:53:40 Acceptance Time: 1402068520000
+22:53:40 Worker Id: A28EJSYXW5MY93
+22:53:40 Submit Time: 1402069710000
+22:53:40 Approve Assignment for HIT3XU80RHWHZR9ES7SZO0Z6L2YXL844E
+22:53:40 Acceptance Time: 1402069015000
+22:53:40 Worker Id: A2ZHJXNVKRDEH1
+22:53:40 Submit Time: 1402069072000
+22:53:41 Approve Assignment for HIT3DW3BNF1GHT9R6D9VNRZWNIGCR18V1
+22:53:41 Acceptance Time: 1402069894000
+22:53:41 Worker Id: A27MT0R9KYBDQ6
+22:53:41 Submit Time: 1402069970000
+22:53:41 Approve Assignment for HIT3O0M2G5VC6DABYD4GJWQNTDEJDM49A
+22:53:41 Acceptance Time: 1402068617000
+22:53:41 Worker Id: A2ZHJXNVKRDEH1
+22:53:41 Submit Time: 1402068675000
+22:53:41 Approve Assignment for HIT3ATYLI1PRTD3L30VLF2CQLXMW9YJOU
+22:53:41 Acceptance Time: 1402070450000
+22:53:41 Worker Id: A115LHLX0R9VWW
+22:53:41 Submit Time: 1402070529000
+22:53:42 Approve Assignment for HIT3MD8CKRQZZY6IGSBD7JGKG2R7WIJR3
+22:53:42 Acceptance Time: 1402070092000
+22:53:42 Worker Id: A2E98WNOGW8ZIG
+22:53:42 Submit Time: 1402070159000
+22:53:42 Approve Assignment for HIT36AZSFEYZ4BST4BGYZB9NP8HKXMBV3
+22:53:42 Acceptance Time: 1402070342000
+22:53:42 Worker Id: A115LHLX0R9VWW
+22:53:42 Submit Time: 1402070443000
+22:53:43 Approve Assignment for HIT374UMBUHN50WQHZX747PXRQE5X5TCB
+22:53:43 Acceptance Time: 1402069756000
+22:53:43 Worker Id: A2E98WNOGW8ZIG
+22:53:43 Submit Time: 1402069834000
+22:53:43 Approve Assignment for HIT3PR3LXCWSFA1901E0UYVK4ACC8RX9I
+22:53:43 Acceptance Time: 1402069654000
+22:53:43 Worker Id: A2E98WNOGW8ZIG
+22:53:43 Submit Time: 1402069756000
+22:53:43 Reject Assignment for HIT32W3UF2EZOWC9WK7S36HPJEMPYP4CR
+22:53:43 Num of right answers 11
+22:53:43 Worker Id A28EJSYXW5MY93
+22:53:43 Answer String <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<QuestionFormAnswers xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd">
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>comments</QuestionIdentifier>
+<FreeText/>
+</Answer>
+</QuestionFormAnswers>
+
+22:53:44 Approve Assignment for HIT3YOAVL4CA0SPHPVHKHQP0HF7YGAZ4K
+22:53:44 Acceptance Time: 1402068370000
+22:53:44 Worker Id: A28EJSYXW5MY93
+22:53:44 Submit Time: 1402068520000
+22:53:44 Approve Assignment for HIT3CO05SML7VGZGARPRZ9A2BNV8NBR03
+22:53:44 Acceptance Time: 1402068915000
+22:53:44 Worker Id: A2E98WNOGW8ZIG
+22:53:44 Submit Time: 1402068993000
+22:53:45 Approve Assignment for HIT3HEADTGN2P3F9BS5UWXZN4DL2JPRVW
+22:53:45 Acceptance Time: 1402067569000
+22:53:45 Worker Id: A3CDWNUQUYX1OR
+22:53:45 Submit Time: 1402067715000
+22:53:45 Approve Assignment for HIT306996CF6WVC7SVIRLRKG111VTF1B4
+22:53:45 Acceptance Time: 1402070424000
+22:53:45 Worker Id: A27MT0R9KYBDQ6
+22:53:45 Submit Time: 1402070509000
+22:53:45 Approve Assignment for HIT3W3RSPVVGS24TY8SKMQY5623IKRULK
+22:53:45 Acceptance Time: 1402070159000
+22:53:45 Worker Id: A2E98WNOGW8ZIG
+22:53:45 Submit Time: 1402070257000
+22:53:46 Approve Assignment for HIT3XT3KXP24Z9H1MAL31VIXKWVYUF6IG
+22:53:46 Acceptance Time: 1402070483000
+22:53:46 Worker Id: A2E98WNOGW8ZIG
+22:53:46 Submit Time: 1402070548000
+22:53:46 Approve Assignment for HIT3IZVJEBJ6AV3WCZV35J4XFZLU7GZ65
+22:53:46 Acceptance Time: 1402070550000
+22:53:46 Worker Id: ARQLEW6ZHW11L
+22:53:46 Submit Time: 1402070737000
+22:53:47 Approve Assignment for HIT3UAU495MII3CZJBPXE6QXN6XDPWOUV
+22:53:47 Acceptance Time: 1402069406000
+22:53:47 Worker Id: A2E98WNOGW8ZIG
+22:53:47 Submit Time: 1402069504000
+22:53:47 Approve Assignment for HIT3B6F54KMR2NBOECK27DF6QB1ZH1S1W
+22:53:47 Acceptance Time: 1402070419000
+22:53:47 Worker Id: A2E98WNOGW8ZIG
+22:53:47 Submit Time: 1402070483000
+22:53:47 Approve Assignment for HIT3O0M2G5VC6DABYD4GJWQNTDEJDM94F
+22:53:47 Acceptance Time: 1402067976000
+22:53:47 Worker Id: A3IXXL16R8VL7V
+22:53:47 Submit Time: 1402068044000
+22:53:48 Approve Assignment for HIT32LAQ1JNT90SCBGXTVSPRXCKCXDUTN
+22:53:48 Acceptance Time: 1402069002000
+22:53:48 Worker Id: A27MT0R9KYBDQ6
+22:53:48 Submit Time: 1402069166000
+22:53:48 Approve Assignment for HIT3EN4YVUOUC3QFCENM6P89YOF8DHXJR
+22:53:48 Acceptance Time: 1402071091000
+22:53:48 Worker Id: A3IMC6JWNH1D6Y
+22:53:48 Submit Time: 1402071464000
+22:53:48 Approve Assignment for HIT3SU800BH863FKVO5CRYUMS1XSQSUQN
+22:53:48 Acceptance Time: 1402071753000
+22:53:48 Worker Id: A2E98WNOGW8ZIG
+22:53:48 Submit Time: 1402071935000
+22:53:49 Reject Assignment for HIT3MVY4USGB6YMOK8IAEYLYPSNGJRIST
+22:53:49 Num of right answers 26
+22:53:49 Worker Id A28EJSYXW5MY93
+22:53:49 Answer String <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<QuestionFormAnswers xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd">
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>comments</QuestionIdentifier>
+<FreeText/>
+</Answer>
+</QuestionFormAnswers>
+
+22:53:49 Approve Assignment for HIT3OKP4QVBP284SXGT3QCRSDL1F0SGA3
+22:53:49 Acceptance Time: 1402071935000
+22:53:49 Worker Id: A2E98WNOGW8ZIG
+22:53:49 Submit Time: 1402072109000
+22:53:49 Reject Assignment for HIT3TZDZ3Y0JSHTJZGLT1DOPV6B7TS19A
+22:53:49 Num of right answers 24
+22:53:49 Worker Id A3KD150K6OE4NB
+22:53:49 Answer String <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<QuestionFormAnswers xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd">
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>comments</QuestionIdentifier>
+<FreeText/>
+</Answer>
+</QuestionFormAnswers>
+
+22:53:50 Approve Assignment for HIT3CO05SML7VGZGARPRZ9A2BNV8NRR0J
+22:53:50 Acceptance Time: 1402071068000
+22:53:50 Worker Id: A2E98WNOGW8ZIG
+22:53:50 Submit Time: 1402071427000
+22:53:50 Approve Assignment for HIT31JUPBOORNF6V11FHJPT9EKELTE8LX
+22:53:50 Acceptance Time: 1402071427000
+22:53:50 Worker Id: A2E98WNOGW8ZIG
+22:53:50 Submit Time: 1402071753000
+22:53:50 Approve Assignment for HIT3OWZNK3RYL0YSCMKAG8TQA3UCKF2UI
+22:53:50 Acceptance Time: 1402070570000
+22:53:50 Worker Id: ALIRXTP0EM80I
+22:53:50 Submit Time: 1402070747000
+22:53:51 Approve Assignment for HIT39AYGO6AFFV9FNLC0H8A2SSCKTNN6R
+22:53:51 Acceptance Time: 1402075549000
+22:53:51 Worker Id: A3F7TX7LITQ4UP
+22:53:51 Submit Time: 1402075975000
+22:53:51 Approve Assignment for HIT38XPGNCKHTB885Q7JK1MFB2BA5JV4V
+22:53:51 Acceptance Time: 1402071971000
+22:53:51 Worker Id: A35TDP5RNYUGDH
+22:53:51 Submit Time: 1402072261000
+22:53:51 Approve Assignment for HIT3P458N04Q1SQ9GGFFLJGAH2Y62W2XA
+22:53:51 Acceptance Time: 1402070896000
+22:53:51 Worker Id: A2E98WNOGW8ZIG
+22:53:51 Submit Time: 1402071067000
+22:53:52 Approve Assignment for HIT3R0WOCG21MKLVMK075SAMTUY9B4DU2
+22:53:52 Acceptance Time: 1402076241000
+22:53:52 Worker Id: A1F8W35SL6P73Y
+22:53:52 Submit Time: 1402076990000
+22:53:52 Approve Assignment for HIT3YCT0L9OMMKE2LJ97UBD3XO42IKSNI
+22:53:52 Acceptance Time: 1402070721000
+22:53:52 Worker Id: A2E98WNOGW8ZIG
+22:53:52 Submit Time: 1402070896000
+22:53:53 Approve Assignment for HIT3FJ2RVH25ZH08KYHC5D2UEGGZZ592Y
+22:53:53 Acceptance Time: 1402070541000
+22:53:53 Worker Id: A115LHLX0R9VWW
+22:53:53 Submit Time: 1402070726000
+22:53:53 Approve Assignment for HIT3FK4G712NXBBIYBEFQSZ2RYAPHSSSU
+22:53:53 Acceptance Time: 1402071526000
+22:53:53 Worker Id: A3M7AZ2UR2XK1C
+22:53:53 Submit Time: 1402071740000
+22:53:53 Approve Assignment for HIT33KMQD9OFJP3G27U3KWDC96IFP4771
+22:53:53 Acceptance Time: 1402074105000
+22:53:53 Worker Id: AIJ4Z287JBGL8
+22:53:53 Submit Time: 1402074367000
+22:53:54 Approve Assignment for HIT3ZVPAMTJWNEWRE2A51YDN3ABF4GRGM
+22:53:54 Acceptance Time: 1402073959000
+22:53:54 Worker Id: AN5DX7ARYCC74
+22:53:54 Submit Time: 1402074134000
+22:53:54 Approve Assignment for HIT3WA2XVDZEMS5LH8Z7I5RC5Y361NE6U
+22:53:54 Acceptance Time: 1402070549000
+22:53:54 Worker Id: A2E98WNOGW8ZIG
+22:53:54 Submit Time: 1402070721000
+22:53:55 Approve Assignment for HIT373L46LKP7HKVCFGNNAJJ4GDC43JKP
+22:53:55 Acceptance Time: 1402070608000
+22:53:55 Worker Id: A16D2GVNFHEB9V
+22:53:55 Submit Time: 1402070833000
+22:53:55 Approve Assignment for HIT39N6W9XWRDY5OFEWJWQ7VZ38IRVGYD
+22:53:55 Acceptance Time: 1402071346000
+22:53:55 Worker Id: ARQLEW6ZHW11L
+22:53:55 Submit Time: 1402071570000
+22:53:55 Reject Assignment for HIT3G5RUKN2ECEWX6NAYOBMM2JEAVD9N8
+22:53:55 Num of right answers 11
+22:53:55 Worker Id A2OM5LA43A5ZIY
+22:53:55 Answer String <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<QuestionFormAnswers xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd">
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>comments</QuestionIdentifier>
+<FreeText/>
+</Answer>
+</QuestionFormAnswers>
+
+22:53:56 Reject Assignment for HIT3LG268AV38HY706JZ68PN0PZ2PHREN
+22:53:56 Num of right answers 12
+22:53:56 Worker Id AQ5O77DCFDO3B
+22:53:56 Answer String <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<QuestionFormAnswers xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd">
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>comments</QuestionIdentifier>
+<FreeText/>
+</Answer>
+</QuestionFormAnswers>
+
+22:53:56 Approve Assignment for HIT3BAWBGQGYLA5RS8QLIZTINML18R7VB
+22:53:56 Acceptance Time: 1402074171000
+22:53:56 Worker Id: A1SBZJ2LKP1SN
+22:53:56 Submit Time: 1402074305000
+22:53:57 Approve Assignment for HIT3ZVPAMTJWNEWRE2A51YDN3ABF5WRG4
+22:53:57 Acceptance Time: 1402075980000
+22:53:57 Worker Id: A1F8W35SL6P73Y
+22:53:57 Submit Time: 1402076241000
+22:53:57 Approve Assignment for HIT3QXFBUZ4ZKRO76UR9VTISEXVM40UGB
+22:53:57 Acceptance Time: 1402075159000
+22:53:57 Worker Id: A3F7TX7LITQ4UP
+22:53:57 Submit Time: 1402075535000
+22:53:57 Approve Assignment for HIT3FO95NVK5CBZHJB101SUCHTE3GRSRQ
+22:53:57 Acceptance Time: 1402081071000
+22:53:57 Worker Id: A2OLM3IAEDU460
+22:53:57 Submit Time: 1402081266000
+22:53:58 Reject Assignment for HIT3ULIZ0H1VAGAICE9QB07DF19LYP515
+22:53:58 Num of right answers 14
+22:53:58 Worker Id A2OM5LA43A5ZIY
+22:53:58 Answer String <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<QuestionFormAnswers xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd">
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>2</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>comments</QuestionIdentifier>
+<FreeText/>
+</Answer>
+</QuestionFormAnswers>
+
+22:53:58 Approve Assignment for HIT3T6EIBTM9LZ3I63QHQKHWRAYH6WAA4
+22:53:58 Acceptance Time: 1402076898000
+22:53:58 Worker Id: A15KTJXUIYZL7D
+22:53:58 Submit Time: 1402077067000
+22:53:58 Approve Assignment for HIT35ZRNT9RUI9S0PY6IUAPAEGX0D8O3L
+22:53:58 Acceptance Time: 1402077291000
+22:53:58 Worker Id: A2UG7GCRNDT7I5
+22:53:58 Submit Time: 1402077382000
+22:53:59 Approve Assignment for HIT3PCPFX4U401Q1DRFH23V0S0UI4VQF4
+22:53:59 Acceptance Time: 1402074316000
+22:53:59 Worker Id: AQ5O77DCFDO3B
+22:53:59 Submit Time: 1402074439000
+22:53:59 Approve Assignment for HIT3A520CCNWNB68JK2XVM3SA0P2LVEA4
+22:53:59 Acceptance Time: 1402074186000
+22:53:59 Worker Id: A34BG6J5ZO04GF
+22:53:59 Submit Time: 1402074539000
+22:54:00 Approve Assignment for HIT3UL5XDRDNCUSTCYUPW9MSPOHZ4V58P
+22:54:00 Acceptance Time: 1402078096000
+22:54:00 Worker Id: A2OLM3IAEDU460
+22:54:00 Submit Time: 1402078394000
+22:54:00 Approve Assignment for HIT3UV0D2KX1MUJC84HJ5WIXPZPMCSF4Q
+22:54:00 Acceptance Time: 1402080727000
+22:54:00 Worker Id: A37Q1701BQI3TI
+22:54:00 Submit Time: 1402080987000
+22:54:00 Approve Assignment for HIT3SCKNODZ0XRSJNZHJRD286S8F557NA
+22:54:00 Acceptance Time: 1402079160000
+22:54:00 Worker Id: A6CL6NYX5ZWEV
+22:54:00 Submit Time: 1402079392000
+22:54:01 Approve Assignment for HIT3H5TOKO3D9UNTFB6ICTE3JMCTDP46C
+22:54:01 Acceptance Time: 1402078953000
+22:54:01 Worker Id: A6CL6NYX5ZWEV
+22:54:01 Submit Time: 1402079155000
+22:54:01 Approve Assignment for HIT3SMIWMMK61GK4SKRO0X0EHJJGS6WUS
+22:54:01 Acceptance Time: 1402081077000
+22:54:01 Worker Id: A3CDWNUQUYX1OR
+22:54:01 Submit Time: 1402081376000
+22:54:02 Approve Assignment for HIT3UAU495MII3CZJBPXE6QXN6XDQ7UOE
+22:54:02 Acceptance Time: 1402078646000
+22:54:02 Worker Id: A2OLM3IAEDU460
+22:54:02 Submit Time: 1402079008000
+22:54:02 Approve Assignment for HIT3PN6H8C9R411GD6210BJMSI4299ADM
+22:54:02 Acceptance Time: 1402080987000
+22:54:02 Worker Id: A37Q1701BQI3TI
+22:54:02 Submit Time: 1402081418000
+22:54:02 Approve Assignment for HIT3DZKABX2ZIGB393MCZ74Y9EZ2JXCVO
+22:54:02 Acceptance Time: 1402080578000
+22:54:02 Worker Id: A37Q1701BQI3TI
+22:54:02 Submit Time: 1402080727000
+22:54:03 Approve Assignment for HIT3Z56AA6EK4B3X50COGTAPD3CF4A6M9
+22:54:03 Acceptance Time: 1402080146000
+22:54:03 Worker Id: ARQLEW6ZHW11L
+22:54:03 Submit Time: 1402080373000
+22:54:03 Approve Assignment for HIT3GS542CVJVYS7HH4UOF0SLJSJAT59U
+22:54:03 Acceptance Time: 1402078395000
+22:54:03 Worker Id: A2OLM3IAEDU460
+22:54:03 Submit Time: 1402078646000
+22:54:03 Approve Assignment for HIT3X2YVV51PUF4VVTTMCNG3FEM5V7W1R
+22:54:03 Acceptance Time: 1402080726000
+22:54:03 Worker Id: A3CDWNUQUYX1OR
+22:54:03 Submit Time: 1402081027000
+22:54:04 Approve Assignment for HIT34R3P23QHSCFZ6E7O1Q1V2UTMK4HWC
+22:54:04 Acceptance Time: 1402079906000
+22:54:04 Worker Id: A3H4G9JLN2Y89Q
+22:54:04 Submit Time: 1402080107000
+22:54:04 Approve Assignment for HIT338GLSUI43M2ET6S96S0VSFV0SVFSX
+22:54:04 Acceptance Time: 1402079696000
+22:54:04 Worker Id: A2OLM3IAEDU460
+22:54:04 Submit Time: 1402081071000
+22:54:05 Approve Assignment for HIT34D9ZRXCYR57I2PKYQ68HR443CJASG
+22:54:05 Acceptance Time: 1402077884000
+22:54:05 Worker Id: A2OLM3IAEDU460
+22:54:05 Submit Time: 1402078096000
+22:54:05 Approve Assignment for HIT3DWNFENNE36ZHAQD2VN3CNRHFJ94JI
+22:54:05 Acceptance Time: 1402081267000
+22:54:05 Worker Id: A2OLM3IAEDU460
+22:54:05 Submit Time: 1402082229000
+22:54:05 Approve Assignment for HIT3APP19WN71P35V4QDDVFC8JFJIZG6C
+22:54:05 Acceptance Time: 1402079009000
+22:54:05 Worker Id: A2OLM3IAEDU460
+22:54:05 Submit Time: 1402079263000
+22:54:06 Approve Assignment for HIT3FULMHZ7OU8PIIWY5S0VSFJYJD44MM
+22:54:06 Acceptance Time: 1402079263000
+22:54:06 Worker Id: A2OLM3IAEDU460
+22:54:06 Submit Time: 1402079696000
+22:54:06 Approve Assignment for HIT38XPGNCKHTB885Q7JK1MFB2BA6VV49
+22:54:06 Acceptance Time: 1402083566000
+22:54:06 Worker Id: A2OLM3IAEDU460
+22:54:06 Submit Time: 1402083754000
+22:54:06 Approve Assignment for HIT38EHZ67RIM35UYPI0T2W14G19ISMG6
+22:54:06 Acceptance Time: 1402082690000
+22:54:06 Worker Id: A2OLM3IAEDU460
+22:54:06 Submit Time: 1402083255000
+22:54:07 Approve Assignment for HIT3YD0MU1NC2CLZ45SAN8XM088GYLA78
+22:54:07 Acceptance Time: 1402083621000
+22:54:07 Worker Id: A37Q1701BQI3TI
+22:54:07 Submit Time: 1402083752000
+22:54:07 Approve Assignment for HIT3FI30CQHVKU7EEWFXR31BXSI35L6BZ
+22:54:07 Acceptance Time: 1402083240000
+22:54:07 Worker Id: A37Q1701BQI3TI
+22:54:07 Submit Time: 1402083475000
+22:54:07 Approve Assignment for HIT3IKMEYR0LW6KPGH8G24RKNUWAUSK2G
+22:54:07 Acceptance Time: 1402083752000
+22:54:07 Worker Id: A37Q1701BQI3TI
+22:54:07 Submit Time: 1402083870000
+22:54:08 Reject Assignment for HIT3RBI0I35XEE4U328OHJNC5EZEN1Y30
+22:54:08 Num of right answers 29
+22:54:08 Worker Id A10G5QSW6L93RC
+22:54:08 Answer String <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<QuestionFormAnswers xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd">
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>photo_compare</QuestionIdentifier>
+<SelectionIdentifier>1</SelectionIdentifier>
+</Answer>
+<Answer>
+<QuestionIdentifier>comments</QuestionIdentifier>
+<FreeText>No questions</FreeText>
+</Answer>
+</QuestionFormAnswers>
+
+22:54:08 Approve Assignment for HIT366FYU4PTG0CKWTO9MZSMO3L7XIEKC
+22:54:08 Acceptance Time: 1402083098000
+22:54:08 Worker Id: A37Q1701BQI3TI
+22:54:08 Submit Time: 1402083240000
+22:54:09 Approve Assignment for HIT3PA41K45VNFSM8BUZ6QUCVX3FKKP72
+22:54:09 Acceptance Time: 1402084216000
+22:54:09 Worker Id: A37Q1701BQI3TI
+22:54:09 Submit Time: 1402084842000
+22:54:09 Approve Assignment for HIT3G3AJKPCXL3PCZLCOVO6MA65SNXY4L
+22:54:09 Acceptance Time: 1402083475000
+22:54:09 Worker Id: A37Q1701BQI3TI
+22:54:09 Submit Time: 1402083621000
+22:54:09 Approve Assignment for HIT3OLZC0DJ8JQ2GCPM493Q9CCUFOXVIP
+22:54:09 Acceptance Time: 1402083326000
+22:54:09 Worker Id: A2OLM3IAEDU460
+22:54:09 Submit Time: 1402083566000
+22:54:10 Approve Assignment for HIT3VIVIU06FKNJQPVDQH2ZMGTHOVKMIY
+22:54:10 Acceptance Time: 1402084131000
+22:54:10 Worker Id: A3F7TX7LITQ4UP
+22:54:10 Submit Time: 1402084383000
+22:54:10 Approve Assignment for HIT37OPIVELUUEISTB4NWU9DDX2U1GHAG
+22:54:10 Acceptance Time: 1402085233000
+22:54:10 Worker Id: A37Q1701BQI3TI
+22:54:10 Submit Time: 1402085370000
+22:54:11 Approve Assignment for HIT3DW3BNF1GHT9R6D9VNRZWNIGCSRV8G
+22:54:11 Acceptance Time: 1402082898000
+22:54:11 Worker Id: A37Q1701BQI3TI
+22:54:11 Submit Time: 1402083045000
+22:54:11 Approve Assignment for HIT3TD33TP5DLD81G8IN4KDR2U4ZOCABU
+22:54:11 Acceptance Time: 1402081418000
+22:54:11 Worker Id: A37Q1701BQI3TI
+22:54:11 Submit Time: 1402081598000
+22:54:11 Approve Assignment for HIT3BFF0DJK8XNCXYOT4QXPCWUWR1JSTY
+22:54:11 Acceptance Time: 1402083870000
+22:54:11 Worker Id: A37Q1701BQI3TI
+22:54:11 Submit Time: 1402084215000
+22:54:12 Approve Assignment for HIT302U8RURJZCUUD0D1PGIEK8B1NRVN5
+22:54:12 Acceptance Time: 1402083754000
+22:54:12 Worker Id: A2OLM3IAEDU460
+22:54:12 Submit Time: 1402084474000
+22:54:12 Approve Assignment for HIT356TQKY9XF87GGCDDPOJQ92DQAL872
+22:54:12 Acceptance Time: 1402082229000
+22:54:12 Worker Id: A2OLM3IAEDU460
+22:54:12 Submit Time: 1402082690000
+22:54:12 Approve Assignment for HIT35U0MRQMUJICCY0P24GVT98GRXWVOK
+22:54:12 Acceptance Time: 1402084505000
+22:54:12 Worker Id: A10G5QSW6L93RC
+22:54:12 Submit Time: 1402084738000
+22:54:13 Approve Assignment for HIT3GONHBMNHV95LFKNQLQLMBW7K92MZD
+22:54:13 Acceptance Time: 1402085370000
+22:54:13 Worker Id: A37Q1701BQI3TI
+22:54:13 Submit Time: 1402085540000
+22:54:13 Approve Assignment for HIT36FFXPMST9Z7UX55XFZRE8H7JJ0HOX
+22:54:13 Acceptance Time: 1402085198000
+22:54:13 Worker Id: A10G5QSW6L93RC
+22:54:13 Submit Time: 1402085360000
+22:54:13 Approve Assignment for HIT3BA7SXOG1J1HYZWSM3MPVQTDRNTR80
+22:54:13 Acceptance Time: 1402085033000
+22:54:13 Worker Id: A10G5QSW6L93RC
+22:54:13 Submit Time: 1402085190000
+22:54:14 Approve Assignment for HIT3HKIF5DF6Y8QNE6OBKYRWIAH9K19GC
+22:54:14 Acceptance Time: 1402085945000
+22:54:14 Worker Id: A10G5QSW6L93RC
+22:54:14 Submit Time: 1402086151000
+22:54:14 Approve Assignment for HIT3VZYA8PITO9ABNTRUSW7ZAIZG7U05A
+22:54:14 Acceptance Time: 1402084864000
+22:54:14 Worker Id: A29CP34IN33X1B
+22:54:14 Submit Time: 1402085053000
+22:54:15 Approve Assignment for HIT3OWZNK3RYL0YSCMKAG8TQA3UCM72UE
+22:54:15 Acceptance Time: 1402086359000
+22:54:15 Worker Id: A10G5QSW6L93RC
+22:54:15 Submit Time: 1402086547000
+22:54:15 Approve Assignment for HIT3MA5N0ATTCM61WFFUMTY8UALE22WKR
+22:54:15 Acceptance Time: 1402086470000
+22:54:15 Worker Id: A37Q1701BQI3TI
+22:54:15 Submit Time: 1402086591000
+22:54:15 Approve Assignment for HIT3MNJFORX8BF18R8HXAFS2H53M9IF5S
+22:54:15 Acceptance Time: 1402085540000
+22:54:15 Worker Id: A37Q1701BQI3TI
+22:54:15 Submit Time: 1402085791000
+22:54:16 Approve Assignment for HIT3P7RGTLO6EO9UJCCTHX6Q5DUMJ0KA5
+22:54:16 Acceptance Time: 1402085551000
+22:54:16 Worker Id: A10G5QSW6L93RC
+22:54:16 Submit Time: 1402085748000
+22:54:16 Approve Assignment for HIT3B9J25CZ25OVBHMII42ZNMUS3GYSCW
+22:54:16 Acceptance Time: 1402085791000
+22:54:16 Worker Id: A37Q1701BQI3TI
+22:54:16 Submit Time: 1402085908000
+22:54:17 Approve Assignment for HIT391FPZIE4CX272P2T1B0DE9W15OHUA
+22:54:17 Acceptance Time: 1402085368000
+22:54:17 Worker Id: A10G5QSW6L93RC
+22:54:17 Submit Time: 1402085531000
+22:54:17 Approve Assignment for HIT3GMLHYZ0LE8OTXFR31FOZE4ZR11UYM
+22:54:17 Acceptance Time: 1402085758000
+22:54:17 Worker Id: A10G5QSW6L93RC
+22:54:17 Submit Time: 1402085940000
+22:54:17 Approve Assignment for HIT3I7KR83SNAOVP0271BJ6UA2AG1I9KF
+22:54:17 Acceptance Time: 1402086155000
+22:54:17 Worker Id: A10G5QSW6L93RC
+22:54:17 Submit Time: 1402086352000
+22:54:18 Approve Assignment for HIT3IKDQS3DQEB6H3JMDS8LJKO5UIWCIO
+22:54:18 Acceptance Time: 1402085909000
+22:54:18 Worker Id: A37Q1701BQI3TI
+22:54:18 Submit Time: 1402086345000
+22:54:18 Approve Assignment for HIT34O39PNDK6J00XUZPF6ZMSJEZTERBZ
+22:54:18 Acceptance Time: 1402086345000
+22:54:18 Worker Id: A37Q1701BQI3TI
+22:54:18 Submit Time: 1402086469000
+22:54:19 Approve Assignment for HIT373L46LKP7HKVCFGNNAJJ4GDC9VJKR
+22:54:19 Acceptance Time: 1402110380000
+22:54:19 Worker Id: A1G8NEAN38XSCF
+22:54:19 Submit Time: 1402110496000
+22:54:19 Approve Assignment for HIT3T5ZXGO9DEZW6UIFIEX23KGCUDKQZV
+22:54:19 Acceptance Time: 1402115715000
+22:54:19 Worker Id: A3DPNV0JU8L96T
+22:54:19 Submit Time: 1402115780000
+22:55:11 Expired 0 HITs
+22:55:36 Disposed 147 HITs
+22:55:36 Cleared all HITs

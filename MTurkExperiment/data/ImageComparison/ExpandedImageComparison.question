@@ -1,0 +1,405 @@
+<?xml version="1.0"?>
+<QuestionForm xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionForm.xsd">
+  <Overview>
+    <FormattedContent><![CDATA[
+      <h3>Photo Comparison</h3>
+<ul>
+    <li>Please answer if the two photos contain the same person. If you are shown two photos of the same person, please answer &quot;Yes&quot;. If the two photos are not of the same person, please answer &quot;No&quot;. </li>
+    <li>There are 10 pairs of photos to compare.</li>
+    <li>Your answers are important to us and will be used for research purposes.</li>
+</ul>
+    ]]></FormattedContent>
+  </Overview>
+  <Question>
+    <QuestionIdentifier>photo_compare</QuestionIdentifier>
+    <IsRequired>true</IsRequired>
+    <QuestionContent>
+      <FormattedContent><![CDATA[
+
+<table cellspacing="4" cellpadding="0">
+    <tbody>
+        <tr>
+            <td><img width="500" src="${photo_0_0}" alt="image1" /></td>
+            <td><img width="500" src="${photo_0_1}" alt="image2" /></td>
+        </tr>
+    </tbody>
+</table>
+<p>Do these photos contain the same person?</p>
+
+      ]]></FormattedContent>
+    </QuestionContent>
+    <AnswerSpecification>
+      <SelectionAnswer>
+        <StyleSuggestion>radiobutton</StyleSuggestion>
+        <Selections>
+          <Selection>
+            <SelectionIdentifier>1</SelectionIdentifier>
+           <Text>
+		Yes
+           </Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>2</SelectionIdentifier>
+           <Text>
+		No
+           </Text>
+          </Selection>
+                  </Selections>
+      </SelectionAnswer>
+    </AnswerSpecification>
+  </Question>
+  <Question>
+    <QuestionIdentifier>photo_compare</QuestionIdentifier>
+    <IsRequired>true</IsRequired>
+    <QuestionContent>
+      <FormattedContent><![CDATA[
+
+<table cellspacing="4" cellpadding="0">
+    <tbody>
+        <tr>
+            <td><img width="500" src="${photo_1_0}" alt="image1" /></td>
+            <td><img width="500" src="${photo_1_1}" alt="image2" /></td>
+        </tr>
+    </tbody>
+</table>
+<p>Do these photos contain the same person?</p>
+
+      ]]></FormattedContent>
+    </QuestionContent>
+    <AnswerSpecification>
+      <SelectionAnswer>
+        <StyleSuggestion>radiobutton</StyleSuggestion>
+        <Selections>
+          <Selection>
+            <SelectionIdentifier>1</SelectionIdentifier>
+           <Text>
+		Yes
+           </Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>2</SelectionIdentifier>
+           <Text>
+		No
+           </Text>
+          </Selection>
+                  </Selections>
+      </SelectionAnswer>
+    </AnswerSpecification>
+  </Question>
+  <Question>
+    <QuestionIdentifier>photo_compare</QuestionIdentifier>
+    <IsRequired>true</IsRequired>
+    <QuestionContent>
+      <FormattedContent><![CDATA[
+
+<table cellspacing="4" cellpadding="0">
+    <tbody>
+        <tr>
+            <td><img width="500" src="${photo_2_0}" alt="image1" /></td>
+            <td><img width="500" src="${photo_2_1}" alt="image2" /></td>
+        </tr>
+    </tbody>
+</table>
+<p>Do these photos contain the same person?</p>
+
+      ]]></FormattedContent>
+    </QuestionContent>
+    <AnswerSpecification>
+      <SelectionAnswer>
+        <StyleSuggestion>radiobutton</StyleSuggestion>
+        <Selections>
+          <Selection>
+            <SelectionIdentifier>1</SelectionIdentifier>
+           <Text>
+		Yes
+           </Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>2</SelectionIdentifier>
+           <Text>
+		No
+           </Text>
+          </Selection>
+                  </Selections>
+      </SelectionAnswer>
+    </AnswerSpecification>
+  </Question>
+  <Question>
+    <QuestionIdentifier>photo_compare</QuestionIdentifier>
+    <IsRequired>true</IsRequired>
+    <QuestionContent>
+      <FormattedContent><![CDATA[
+
+<table cellspacing="4" cellpadding="0">
+    <tbody>
+        <tr>
+            <td><img width="500" src="${photo_3_0}" alt="image1" /></td>
+            <td><img width="500" src="${photo_3_1}" alt="image2" /></td>
+        </tr>
+    </tbody>
+</table>
+<p>Do these photos contain the same person?</p>
+
+      ]]></FormattedContent>
+    </QuestionContent>
+    <AnswerSpecification>
+      <SelectionAnswer>
+        <StyleSuggestion>radiobutton</StyleSuggestion>
+        <Selections>
+          <Selection>
+            <SelectionIdentifier>1</SelectionIdentifier>
+           <Text>
+		Yes
+           </Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>2</SelectionIdentifier>
+           <Text>
+		No
+           </Text>
+          </Selection>
+                  </Selections>
+      </SelectionAnswer>
+    </AnswerSpecification>
+  </Question>
+  <Question>
+    <QuestionIdentifier>photo_compare</QuestionIdentifier>
+    <IsRequired>true</IsRequired>
+    <QuestionContent>
+      <FormattedContent><![CDATA[
+
+<table cellspacing="4" cellpadding="0">
+    <tbody>
+        <tr>
+            <td><img width="500" src="${photo_4_0}" alt="image1" /></td>
+            <td><img width="500" src="${photo_4_1}" alt="image2" /></td>
+        </tr>
+    </tbody>
+</table>
+<p>Do these photos contain the same person?</p>
+
+      ]]></FormattedContent>
+    </QuestionContent>
+    <AnswerSpecification>
+      <SelectionAnswer>
+        <StyleSuggestion>radiobutton</StyleSuggestion>
+        <Selections>
+          <Selection>
+            <SelectionIdentifier>1</SelectionIdentifier>
+           <Text>
+		Yes
+           </Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>2</SelectionIdentifier>
+           <Text>
+		No
+           </Text>
+          </Selection>
+                  </Selections>
+      </SelectionAnswer>
+    </AnswerSpecification>
+  </Question>
+  <Question>
+    <QuestionIdentifier>photo_compare</QuestionIdentifier>
+    <IsRequired>true</IsRequired>
+    <QuestionContent>
+      <FormattedContent><![CDATA[
+
+<table cellspacing="4" cellpadding="0">
+    <tbody>
+        <tr>
+            <td><img width="500" src="${photo_5_0}" alt="image1" /></td>
+            <td><img width="500" src="${photo_5_1}" alt="image2" /></td>
+        </tr>
+    </tbody>
+</table>
+<p>Do these photos contain the same person?</p>
+
+      ]]></FormattedContent>
+    </QuestionContent>
+    <AnswerSpecification>
+      <SelectionAnswer>
+        <StyleSuggestion>radiobutton</StyleSuggestion>
+        <Selections>
+          <Selection>
+            <SelectionIdentifier>1</SelectionIdentifier>
+           <Text>
+		Yes
+           </Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>2</SelectionIdentifier>
+           <Text>
+		No
+           </Text>
+          </Selection>
+                  </Selections>
+      </SelectionAnswer>
+    </AnswerSpecification>
+  </Question>
+  <Question>
+    <QuestionIdentifier>photo_compare</QuestionIdentifier>
+    <IsRequired>true</IsRequired>
+    <QuestionContent>
+      <FormattedContent><![CDATA[
+
+<table cellspacing="4" cellpadding="0">
+    <tbody>
+        <tr>
+            <td><img width="500" src="${photo_6_0}" alt="image1" /></td>
+            <td><img width="500" src="${photo_6_1}" alt="image2" /></td>
+        </tr>
+    </tbody>
+</table>
+<p>Do these photos contain the same person?</p>
+
+      ]]></FormattedContent>
+    </QuestionContent>
+    <AnswerSpecification>
+      <SelectionAnswer>
+        <StyleSuggestion>radiobutton</StyleSuggestion>
+        <Selections>
+          <Selection>
+            <SelectionIdentifier>1</SelectionIdentifier>
+           <Text>
+		Yes
+           </Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>2</SelectionIdentifier>
+           <Text>
+		No
+           </Text>
+          </Selection>
+                  </Selections>
+      </SelectionAnswer>
+    </AnswerSpecification>
+  </Question>
+  <Question>
+    <QuestionIdentifier>photo_compare</QuestionIdentifier>
+    <IsRequired>true</IsRequired>
+    <QuestionContent>
+      <FormattedContent><![CDATA[
+
+<table cellspacing="4" cellpadding="0">
+    <tbody>
+        <tr>
+            <td><img width="500" src="${photo_7_0}" alt="image1" /></td>
+            <td><img width="500" src="${photo_7_1}" alt="image2" /></td>
+        </tr>
+    </tbody>
+</table>
+<p>Do these photos contain the same person?</p>
+
+      ]]></FormattedContent>
+    </QuestionContent>
+    <AnswerSpecification>
+      <SelectionAnswer>
+        <StyleSuggestion>radiobutton</StyleSuggestion>
+        <Selections>
+          <Selection>
+            <SelectionIdentifier>1</SelectionIdentifier>
+           <Text>
+		Yes
+           </Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>2</SelectionIdentifier>
+           <Text>
+		No
+           </Text>
+          </Selection>
+                  </Selections>
+      </SelectionAnswer>
+    </AnswerSpecification>
+  </Question>
+  <Question>
+    <QuestionIdentifier>photo_compare</QuestionIdentifier>
+    <IsRequired>true</IsRequired>
+    <QuestionContent>
+      <FormattedContent><![CDATA[
+
+<table cellspacing="4" cellpadding="0">
+    <tbody>
+        <tr>
+            <td><img width="500" src="${photo_8_0}" alt="image1" /></td>
+            <td><img width="500" src="${photo_8_1}" alt="image2" /></td>
+        </tr>
+    </tbody>
+</table>
+<p>Do these photos contain the same person?</p>
+
+      ]]></FormattedContent>
+    </QuestionContent>
+    <AnswerSpecification>
+      <SelectionAnswer>
+        <StyleSuggestion>radiobutton</StyleSuggestion>
+        <Selections>
+          <Selection>
+            <SelectionIdentifier>1</SelectionIdentifier>
+           <Text>
+		Yes
+           </Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>2</SelectionIdentifier>
+           <Text>
+		No
+           </Text>
+          </Selection>
+                  </Selections>
+      </SelectionAnswer>
+    </AnswerSpecification>
+  </Question>
+  <Question>
+    <QuestionIdentifier>photo_compare</QuestionIdentifier>
+    <IsRequired>true</IsRequired>
+    <QuestionContent>
+      <FormattedContent><![CDATA[
+
+<table cellspacing="4" cellpadding="0">
+    <tbody>
+        <tr>
+            <td><img width="500" src="${photo_9_0}" alt="image1" /></td>
+            <td><img width="500" src="${photo_9_1}" alt="image2" /></td>
+        </tr>
+    </tbody>
+</table>
+<p>Do these photos contain the same person?</p>
+
+      ]]></FormattedContent>
+    </QuestionContent>
+    <AnswerSpecification>
+      <SelectionAnswer>
+        <StyleSuggestion>radiobutton</StyleSuggestion>
+        <Selections>
+          <Selection>
+            <SelectionIdentifier>1</SelectionIdentifier>
+           <Text>
+		Yes
+           </Text>
+          </Selection>
+          <Selection>
+            <SelectionIdentifier>2</SelectionIdentifier>
+           <Text>
+		No
+           </Text>
+          </Selection>
+                  </Selections>
+      </SelectionAnswer>
+    </AnswerSpecification>
+  </Question>
+  <Question>
+    <QuestionIdentifier>comments</QuestionIdentifier>
+    <QuestionContent>
+
+      <Text>Please help us improve this HIT by including any Questions and/or Comments (optional):</Text>
+    </QuestionContent>
+    <AnswerSpecification>
+      <FreeTextAnswer>
+        <NumberOfLinesSuggestion>10</NumberOfLinesSuggestion>
+      </FreeTextAnswer>
+    </AnswerSpecification>
+  </Question>
+</QuestionForm>
